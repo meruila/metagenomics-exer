@@ -1,12 +1,12 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 
-import urllib2
+from urllib.request import urlopen
 import os
 import sys
 import time
 
 if len(sys.argv) != 3:
-    print "USAGE: fetch_genome.py <genome_id_list> <out_dir>"
+    print("USAGE: fetch_genome.py <genome_id_list> <out_dir>")
     sys.exit(1)
 
 url_template = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nucleotide&id=%s&rettype=fasta&retmode=text"
@@ -22,8 +22,9 @@ for id in open(sys.argv[1]):
     sys.stdout.flush()
     gbk_out_file = os.path.join(sys.argv[2], id + ".fa")
     if os.path.exists(gbk_out_file):
-        print "already fetched"
-
-    open(gbk_out_file, "w").write(urllib2.urlopen(url_template % id).read())
-    print "Done"
+        print("already fetched")
+    url = urlopen(url_template % id).read()
+    # print(url)
+    open(gbk_out_file, "wb").write(url)
+    print("Done")
     time.sleep(1.0/3)
