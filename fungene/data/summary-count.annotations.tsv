@@ -1,0 +1,179 @@
+Gene ID	Gene Annotation	metags/corn	metags/prairie	metags/soybean
+HM019532	 location=<1..855,organism=Burkholderia phymatum,definition=NifH	440	432	401
+GQ167294	 location=<1..825,organism=Mesorhizobium sp. CCBAU 11257,definition=NifH	100	88	140
+GQ167284	 location=<1..870,organism=Mesorhizobium septentrionale,definition=NifH	48	38	57
+CP007744	 location=complement(3265988..3266869),organism=Pectobacterium atrosepticum,definition=nitrogenase reductase	6	1	1
+AOBS01000009	 location=complement(42550..43431),organism=Pseudomonas stutzeri NF13,definition=Fe protein, nitrogenase reductase NifH	44	35	38
+K00487	 location=576..1460,organism=Rhizobium sp. ANU289,definition=nitrogenase iron protein	378	343	255
+HM583800	 location=2092..2964,organism=Paenibacillus sabinae,definition=NifH	10	14	19
+CP002447	 location=complement(6018658..6019551),organism=Mesorhizobium ciceri biovar biserrulae WSM1271,definition=nitrogenase iron protein	140	128	221
+CAAF010000045	 location=complement(51097..51990),organism=Mesorhizobium sp. STM 4661,definition=nitrogenase iron protein, nifH; dinitrogenase reductase	54	111	74
+GQ167283	 location=<1..828,organism=Mesorhizobium ciceri,definition=NifH	24	36	84
+CP000529	 location=complement(2476797..2477687),organism=Polaromonas naphthalenivorans CJ2,definition=Mo-nitrogenase iron protein subunit NifH	8	12	5
+AP017605	 location=5374361..5375254,organism=Mesorhizobium loti,definition=nitrogenase reductase	73	61	44
+AJ302315	 location=<1..863,organism=Burkholderia tuberum STM678,definition=NifH protein	64	42	36
+CP000613	 location=complement(3814476..3815375),organism=Rhodospirillum centenum SW,definition=NifH, 4Fe-4S iron sulfur cluster binding protein	37	33	27
+JN390678	 location=<1..876,organism=Leptospirillum ferriphilum,definition=nitrogenase iron protein	424	349	365
+EF158806	 location=<1..854,organism=Paraburkholderia caryophylli,definition=nitrogenase reductase	19	17	5
+LGTE01000008	 location=51514..52332,organism=Thermincola ferriacetica,definition=nitrogenase iron protein	18	27	11
+BA000012	 location=4771737..4772630,organism=Mesorhizobium loti MAFF303099,definition=nitrogenase iron protein; NifH	9	20	19
+EU514542	 location=<1..>845,organism=Mesorhizobium sp. SCAU2,definition=nitrogenase iron protein	15	17	22
+CP001649	 location=complement(488297..489124),organism=Desulfovibrio salexigens DSM 2638,definition=nitrogenase iron protein	17	33	8
+AP012279	 location=complement(4717022..4717912),organism=Bradyrhizobium sp. S23321,definition=nitrogenase iron protein	136	210	191
+AFWT01000020	 location=complement(87477..88352),organism=Thiorhodococcus drewsii AZ1,definition=Nitrogenase iron protein	23	29	29
+HM019531	 location=<1..855,organism=Burkholderia phymatum,definition=NifH	101	101	114
+ACUX02000016	 location=complement(97506..98495),organism=Slackia exigua ATCC 700122,definition=putative nitrogenase iron protein	6	4	5
+AE017180	 location=complement(3104013..3104882),organism=Geobacter sulfurreducens PCA,definition=nitrogenase iron protein	13	12	7
+HM146187	 location=694..1560,organism=Paenibacillus polymyxa,definition=nitrognesae reductase NifH	14	11	5
+AP010904	 location=complement(2320722..2321546),organism=Desulfovibrio magneticus RS-1,definition=nitrogenase iron protein nitrogenase component II	30	11	18
+AB189641	 location=216..1091,organism=Halorhodospira halophila,definition=Fe protein of nitrogenase	16	10	18
+K01620	 location=325..1209,organism=Bradyrhizobium japonicum,definition=Rhizobium japonicum nifH gene encoding nitrogenase Fe	200	241	224
+CP001016	 location=533912..534784,organism=Beijerinckia indica subsp. indica ATCC 9039,definition=nitrogenase iron protein	12	4	7
+CP012899	 location=complement(326573..327454),organism=Burkholderia sp. CCGE1001,definition=Nitrogenase iron protein	183	214	171
+M64344	 location=361..1242,organism=Azospirillum brasilense,definition=A.brasilense Fe protein and FeMo protein subunits and 353 bp orf, complete cds	24	55	38
+CAFH01000025	 location=76184..77071,organism=Bradyrhizobium sp. ORS 285,definition=nitrogenase iron protein, nifH; dinitrogenase reductase	51	95	102
+AEVM01000015	 location=complement(47128..48009),organism=Methylocystis sp. ATCC 49242,definition=nitrogenase iron protein	32	55	55
+AP007255	 location=complement(1703953..1704840),organism=Magnetospirillum magneticum AMB-1,definition=Nitrogenase subunit NifH	39	22	35
+AP012557	 location=130771..131664,organism=Mesorhizobium loti NZP2037,definition=nitrogenase reductase, NifH	60	132	105
+CU234118	 location=complement(5627718..5628605),organism=Bradyrhizobium sp. ORS 278,definition=nitrogenase iron protein, nifH; dinitrogenase reductase	47	58	77
+CP000781	 location=complement(137497..138378),organism=Xanthobacter autotrophicus Py2,definition=nitrogenase iron protein	31	35	27
+AFWV01000003	 location=complement(411924..412808),organism=Thiocapsa marina 5811,definition=Nitrogenase iron protein	36	43	46
+AE017282	 location=226242..227123,organism=Methylococcus capsulatus str. Bath,definition=nitrogenase iron protein	36	37	11
+CP000089	 location=complement(1544639..1545529),organism=Dechloromonas aromatica RCB,definition=Mo-nitrogenase iron protein subunit NifH	53	53	22
+L41344	 location=2798..3661,organism=Frankia alni,definition=dinitrogenase reductase	21	8	1
+CP000304	 location=1432264..1433145,organism=Pseudomonas stutzeri A1501,definition=Fe protein, nitrogenase reductase NifH	19	13	24
+HQ115059	 location=<1..855,organism=Burkholderia sp. enrichment culture clone CACua-88,definition=NifH	20	12	1
+CP000142	 location=2447668..2448546,organism=Pelobacter carbinolicus DSM 2380,definition=nitrogenase iron protein	3	4	2
+X13303	 location=4178..5059,organism=Klebsiella pneumoniae,definition=Klebsiella pneumoniae DNA for nif gene cluster	10	11	2
+AGSN01000010	 location=complement(20656..21549),organism=Mesorhizobium amorphae CCNWGS0123,definition=Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	76	74	83
+CP000673	 location=1069472..1070290,organism=Clostridium kluyveri DSM 555,definition=NifH2	41	36	24
+CP001654	 location=3058042..3058869,organism=Dickeya dadantii Ech703,definition=nitrogenase iron protein	24	4	11
+Z31716	 location=527..1414,organism=Nostoc sp. PCC 6720,definition=Nostoc PCC 6720 nifH, nifD, nifU genes	13	17	15
+LYTK01000023	 location=147370..148263,organism=Mesorhizobium loti,definition=nitrogenase iron protein	108	174	142
+CP002364	 location=3518933..3519760,organism=Desulfobulbus propionicus DSM 2032,definition=Mo-nitrogenase iron protein subunit NifH	54	45	25
+AGJF01000003	 location=675746..676570,organism=Opitutaceae bacterium TAV5,definition=Nitrogenase iron protein	30	37	59
+CP000698	 location=1385423..1386292,organism=Geobacter uraniireducens Rf4,definition=Mo-nitrogenase iron protein subunit NifH	31	22	39
+CP001715	 location=5030746..5031654,organism=Candidatus Accumulibacter phosphatis clade IIA str. UW-1,definition=nitrogenase iron protein	38	18	44
+AB685466	 location=1..885,organism=Bradyrhizobium japonicum,definition=dinitrogenase reductase protein	28	33	26
+EF158807	 location=<1..>842,organism=Paraburkholderia silvatlantica SRMrh-20,definition=nitrogenase reductase	48	21	34
+CP003220	 location=complement(1437333..1438160),organism=Desulfovibrio desulfuricans ND132,definition=nitrogenase iron protein	19	19	6
+AFER01000001	 location=complement(1683723..1684598),organism=Rhodobacter sphaeroides WS8N,definition=nitrogenase reductase	16	17	15
+GQ167291	 location=<1..852,organism=Mesorhizobium sp. CCBAU 11231,definition=NifH	13	24	22
+X51756	 location=337..1209,organism=Azotobacter chroococcum,definition=Azotobacter chroococcum vnfH, D, G, and K genes, region encoding the structural genes for vanadium nitrogenase	18	14	14
+CP001841	 location=complement(2966630..2967454),organism=Treponema azotonutricium ZAS-9,definition=nitrogenase iron protein	3	18	24
+CP002479	 location=2244381..2245250,organism=Geobacter sp. M18,definition=nitrogenase iron protein	25	16	16
+CP002038	 location=complement(4321869..4322750),organism=Dickeya dadantii 3937,definition=Nitrogenase iron protein	2	9	9
+HE577327	 location=complement(1186660..1187541),organism=Azospirillum brasilense Sp245,definition=nitrogenase iron protein, nifH; dinitrogenase reductase	6	18	9
+AE017286	 location=complement(18877..19710),organism=Desulfovibrio vulgaris str. Hildenborough,definition=nitrogenase iron protein	38	33	34
+CP002400	 location=2481760..2482587,organism=Ethanoligenens harbinense YUAN-3,definition=nitrogenase iron protein	2	4	2
+CP000471	 location=complement(1497890..1498780),organism=Magnetococcus marinus MC-1,definition=Mo-nitrogenase iron protein subunit NifH	11	23	16
+CP000463	 location=complement(5067706..5068605),organism=Rhodopseudomonas palustris BisA53,definition=nitrogenase iron protein subunit NifH	3	4	1
+HE663493	 location=complement(3764253..3765332),organism=Rhodospirillum photometricum DSM 122,definition=Nitrogenase iron protein	23	9	16
+EU514545	 location=<1..>845,organism=Mesorhizobium sp. SCAU9,definition=nitrogenase iron protein	18	26	44
+CP002085	 location=complement(503348..504175),organism=Desulfarculus baarsii DSM 2075,definition=nitrogenase iron protein	48	47	29
+ACYY01000009	 location=complement(39635..40522),organism=Rhodobacter sp. SW2,definition=nitrogenase iron protein	32	56	38
+CP001390	 location=2825101..2825970,organism=Geobacter daltonii FRC-32,definition=nitrogenase iron protein	19	10	11
+CP000117	 location=5609023..5609916,organism=Anabaena variabilis ATCC 29413,definition=Mo-nitrogenase iron protein subunit NifH	11	12	16
+ADVE01000002	 location=104526..105413,organism=Methylosinus trichosporium OB3b,definition=nitrogenase iron protein	6	13	13
+CP001940	 location=2860342..2861169,organism=Desulfurivibrio alkaliphilus AHT2,definition=nitrogenase iron protein	15	14	6
+CP000482	 location=3829863..3830729,organism=Pelobacter propionicus DSM 2379,definition=Mo-nitrogenase iron protein subunit NifH	53	53	67
+ABEA02000005	 location=46311..47135,organism=Diplosphaera colitermitum TAV2,definition=Nitrogenase	10	10	8
+CP001087	 location=1106211..1107032,organism=Desulfobacterium autotrophicum HRM2,definition=NifH2	19	2	28
+CP000661	 location=1287119..1288057,organism=Rhodobacter sphaeroides ATCC 17025,definition=nitrogenase iron protein subunit NifH	14	5	8
+CABR01000056	 location=complement(23658..24548),organism=mine drainage metagenome,definition=Nitrogenase iron protein (Nitrogenase component II) (Nitrogenase Fe protein) (Nitrogenase reductase) nifH; dinitrogenase reductase	7	14	8
+CP000494	 location=complement(6141335..6142222),organism=Bradyrhizobium sp. BTAi1,definition=Mo-nitrogenase iron protein subunit NifH	40	38	41
+AFBX01000924	 location=9884..10768,organism=Azospirillum amazonense Y2,definition=nitrogenase reductase	19	33	50
+CP001965	 location=871214..872092,organism=Sideroxydans lithotrophicus ES-1,definition=nitrogenase iron protein	48	27	56
+M15238	 location=241..1137,organism=Acidithiobacillus ferrooxidans,definition=T.ferrooxidans nifHDK operon encoding nitrogenase reductase and molybdenum-iron protein alpha and beta subunits, complete cds	40	57	36
+GQ167287	 location=<1..825,organism=Mesorhizobium sp. CCBAU 11206,definition=NifH	10	20	13
+CP000301	 location=complement(5243123..5243950),organism=Rhodopseudomonas palustris BisB18,definition=nitrogenase iron protein subunit NifH	10	20	2
+CP000250	 location=1115228..1116127,organism=Rhodopseudomonas palustris HaA2,definition=nitrogenase iron protein subunit NifH	3	6	9
+GQ167295	 location=<1..840,organism=Mesorhizobium huakuii,definition=NifH	11	8	28
+GQ167297	 location=<1..828,organism=Mesorhizobium plurifarium,definition=NifH	6	8	6
+AFWT01000026	 location=4289..5116,organism=Thiorhodococcus drewsii AZ1,definition=Nitrogenase iron protein	6	7	3
+CP001131	 location=3601814..3602680,organism=Anaeromyxobacter sp. K,definition=nitrogenase iron protein	55	32	34
+CP002418	 location=complement(5156158..5157054),organism=Rhodopseudomonas palustris DX-1,definition=nitrogenase iron protein	11	5	15
+CP001089	 location=complement(1263384..1264250),organism=Geobacter lovleyi SZ,definition=nitrogenase iron protein	11	11	14
+AECZ01000006	 location=2452..3276,organism=Desulfovibrio fructosovorans JJ,definition=nitrogenase iron protein	20	21	10
+AEFB01001137	 location=complement(58..948),organism=Acidithiobacillus sp. GGI-221,definition=nitrogenase reductase	2	0	1
+CP001013	 location=1509709..1510590,organism=Leptothrix cholodnii SP-6,definition=nitrogenase iron protein	26	8	5
+JMPO01000160	 location=46765..47640,organism=Rahnella aquatilis CIP 78.65 = ATCC 33071,definition=nitrogenase (molybdenum-iron) reductase and maturation protein	18	21	10
+FQ311868	 location=complement(639402..640298),organism=Azospirillum lipoferum 4B,definition=nitrogenase iron protein, nifH; dinitrogenase reductase	6	12	1
+LNCD01000005	 location=complement(22098..22991),organism=Rhizobium sp. BR10423,definition=nitrogenase reductase	4	2	0
+AASE01000001	 location=53976..54800,organism=Chlorobium ferrooxidans DSM 13031,definition=nitrogenase iron protein	38	4	52
+AFWU01000019	 location=complement(50952..51833),organism=Marichromatium purpuratum 984,definition=Nitrogenase iron protein	7	13	18
+GQ167279	 location=<1..825,organism=Mesorhizobium sp. CCBAU 11226,definition=NifH	3	5	12
+AEWG01000097	 location=complement(7112..7993),organism=Rubrivivax benzoatilyticus JA2,definition=nitrogenase reductase	6	8	6
+CP000964	 location=complement(1769523..1770404),organism=Klebsiella pneumoniae 342,definition=nitrogenase iron protein	14	16	1
+X07866	 location=93..980,organism=Rhodobacter capsulatus SB 1003,definition=Rhodobacter capsulatus nifH gene	2	1	1
+CP000943	 location=3943666..3944565,organism=Methylobacterium sp. 4-46,definition=nitrogenase iron protein	15	8	17
+CP000271	 location=complement(1762951..1763832),organism=Burkholderia xenovorans LB400,definition=Mo-nitrogenase iron protein subunit NifH	14	12	9
+ANFS01000041	 location=411..1286,organism=Rhodobacter sp. AKP1,definition=Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	24	34	21
+ABEA02000149	 location=5633..6457,organism=Diplosphaera colitermitum TAV2,definition=Nitrogenase	5	3	10
+CP001197	 location=3302404..3303234,organism=Desulfovibrio vulgaris str. 'Miyazaki F',definition=nitrogenase iron protein	6	5	5
+AP012304	 location=4511314..4512195,organism=Azoarcus sp. KH32C,definition=nitrogenase iron protein	6	2	1
+AYTZ01000003	 location=112479..113342,organism=Frankia sp. CcI6,definition=Mo-nitrogenase iron protein subunit NifH	4	2	2
+CP001124	 location=2397398..2398267,organism=Geobacter bemidjiensis Bem,definition=nitrogenase iron protein	20	35	19
+AEWJ01000022	 location=51085..51960,organism=Novosphingobium nitrogenifigens DSM 19370,definition=nitrogenase reductase	2	5	5
+LNHV01000100	 location=complement(62616..63497),organism=Klebsiella pneumoniae,definition=nitrogenase reductase	10	2	10
+AP010946	 location=complement(872859..873755),organism=Azospirillum sp. B510,definition=nitrogenase iron protein	7	20	13
+GQ167292	 location=<1..825,organism=Mesorhizobium amorphae,definition=NifH	25	37	47
+JZUR01000032	 location=complement(47202..48083),organism=Burkholderia vietnamiensis,definition=nitrogenase reductase	10	4	1
+CP000544	 location=complement(311670..312545),organism=Halorhodospira halophila SL1,definition=Mo-nitrogenase iron protein subunit NifH	3	3	10
+X13519	 location=214..1086,organism=Azotobacter vinelandii,definition=nitrogenase Fe-protein	9	17	23
+CP001322	 location=complement(2007724..2008548),organism=Desulfatibacillum alkenivorans AK-01,definition=Nitrogenase (molybdenum-iron) reductase and maturation protein	3	2	2
+GQ167293	 location=<1..870,organism=Mesorhizobium septentrionale,definition=NifH	11	8	16
+EF158799	 location=<1..855,organism=Paraburkholderia ferrariae,definition=nitrogenase reductase	2	6	17
+EF158801	 location=<1..837,organism=Paraburkholderia tropica,definition=nitrogenase reductase	9	10	11
+GQ167281	 location=<1..825,organism=Mesorhizobium sp. CCBAU 11185,definition=NifH	1	1	4
+CP001661	 location=complement(2503633..2504502),organism=Geobacter sp. M21,definition=nitrogenase iron protein	12	1	18
+CP000769	 location=complement(3529750..3530616),organism=Anaeromyxobacter sp. Fw109-5,definition=nitrogenase iron protein	6	0	5
+HQ115058	 location=<1..855,organism=Burkholderia sp. enrichment culture clone CACua-70,definition=NifH	7	14	8
+CP013633	 location=complement(294863..295756),organism=Rhizobium sp. N324,definition=nitrogenase iron protein NifH 1	8	6	10
+HQ115055	 location=<1..855,organism=Burkholderia sp. enrichment culture clone CACua-11,definition=NifH	10	5	10
+CP013737	 location=complement(2774372..2775250),organism=Herbaspirillum rubrisubalbicans M1,definition=dinitrogenase reductase NifH protein	2	2	0
+AF200742	 location=620..1513,organism=Azoarcus sp. BH72,definition=dinitrogenase reductase subunit	12	13	19
+CP001157	 location=complement(4960227..4961054),organism=Azotobacter vinelandii DJ,definition=nitrogenase iron protein	2	3	1
+AP012320	 location=4587848..4588729,organism=Rubrivivax gelatinosus IL144,definition=nitrogenase iron protein NifH	2	1	1
+AY318755	 location=<1..866,organism=Mesorhizobium ciceri,definition=dinitrogenase reductase	4	5	3
+BX572597	 location=complement(126200..127090),organism=Rhodopseudomonas palustris CGA009,definition=nitrogenase iron protein, vnfH	5	7	5
+CP003406	 location=27561..28436,organism=Rahnella aquatilis HX2,definition=nitrogenase iron protein	2	3	0
+EF165526	 location=complement(7309..8202),organism=Rhizobium leguminosarum bv. trifolii,definition=nitrogenase Fe protein	1	4	4
+CP001101	 location=1893816..1894640,organism=Chlorobium phaeobacteroides BS1,definition=nitrogenase iron protein	1	3	2
+EF158802	 location=<1..854,organism=Paraburkholderia unamae,definition=nitrogenase reductase	3	3	10
+CP003243	 location=137701..138519,organism=Methanocella conradii HZ254,definition=Mo-nitrogenase iron protein	7	4	5
+M11579	 location=525..1397,organism=Azotobacter vinelandii,definition=Azotobacter vinelandii nifHDK gene cluster	2	4	5
+CP002551	 location=complement(2138498..2139298),organism=Methanobacterium lacus,definition=Nitrogenase iron protein	1	5	5
+AF194084	 location=1154..2056,organism=uncultured bacterium,definition=nitrogenase reductase	2	1	2
+AYIC01000009	 location=453181..454062,organism=Klebsiella pneumoniae UCICRE 14,definition=nitrogenase iron protein	3	2	2
+CP000240	 location=429845..430723,organism=Synechococcus sp. JA-2-3B'a(2-13),definition=nitrogenase iron protein	3	3	2
+FRCO01000001	 location=complement(1170918..1171763),organism=Fibrobacter sp. UWB7,definition=nitrogenase iron protein NifH	4	8	7
+U53362	 location=212..1075,organism=Frankia sp. EuIK1,definition=nitrogenase reductase	3	2	2
+CP001312	 location=complement(2406971..2407843),organism=Rhodobacter capsulatus SB 1003,definition=nitrogenase iron protein-2	1	0	0
+CP001349	 location=complement(4072082..4072981),organism=Methylobacterium nodulans ORS 2060,definition=nitrogenase iron protein	3	5	0
+AF030414	 location=10745..11641,organism=Gluconacetobacter diazotrophicus PAl 5,definition=nitrongenase reductase Fe protein	2	0	3
+HM583799	 location=1284..2174,organism=Paenibacillus sabinae,definition=NifH	1	6	0
+AY242355	 location=1..882,organism=Klebsiella pneumoniae 342,definition=dinitrogenase reductase	1	4	0
+GQ167285	 location=<1..870,organism=Mesorhizobium temperatum,definition=NifH	1	1	2
+CP000616	 location=589594..590475,organism=Burkholderia vietnamiensis G4,definition=Mo-nitrogenase iron protein subunit NifH	4	4	1
+HQ670655	 location=1..894,organism=Rhizobium sp. CCGE 510,definition=dinitrogenase reductase protein	1	0	0
+CP000724	 location=complement(3605581..3606399),organism=Alkaliphilus metalliredigens QYMF,definition=nitrogenase iron protein	4	3	1
+AYPY01000026	 location=complement(118344..119171),organism=Rhodobacter capsulatus YW1,definition=nitrogenase reductase	1	3	0
+AB196476	 location=655..1533,organism=Herbaspirillum sp. B501,definition=nitrogenase iron protein	1	1	0
+CP002738	 location=1601392..1602276,organism=Methylomonas methanica MC09,definition=Nitrogenase iron protein	1	0	0
+AGSB01000063	 location=160424..161248,organism=Holophaga foetida DSM 6591,definition=nitrogenase iron protein	0	38	1
+CP003516	 location=483231..484112,organism=Burkholderia sp. KJ006,definition=Nitrogenase (molybdenum-iron) reductase and maturation protein NifH	0	22	31
+CP002985	 location=complement(1645200..1646087),organism=Acidithiobacillus ferrivorans SS3,definition=Nitrogenase iron protein	0	2	2
+GQ342604	 location=complement(18348..19229),organism=Pantoea sp. At-9b,definition=nitrogenase iron protein	0	3	0
+AGFD01000008	 location=complement(76243..77136),organism=Thiorhodospira sibirica ATCC 700588,definition=Nitrogenase iron protein	0	2	4
+AH000924	 location=1912..2802,organism=Rhizobium sp.,definition=nitrogenase structural protein	0	2	0
+AJGU01000011	 location=complement(28664..29515),organism=Treponema sp. JC4,definition=nitrogenase iron protein	0	1	0
+GQ167282	 location=<1..828,organism=Mesorhizobium tianshanense,definition=NifH	0	1	1
+JN021930	 location=1..894,organism=Rhizobium grahamii CCGE 502,definition=nitrogenase Fe protein	0	5	3
+AJ299453	 location=1979..2857,organism=Paenibacillus durus,definition=NifH2 protein	0	2	0
+CP003153	 location=980747..981622,organism=Dechlorosoma suillum PS,definition=nitrogenase iron protein	0	1	0
+CP001280	 location=complement(3996609..3997490),organism=Methylocella silvestris BL2,definition=nitrogenase iron protein	0	1	0
+EU514544	 location=<1..>841,organism=Mesorhizobium sangaii,definition=nitrogenase iron protein	0	1	1
+CP001896	 location=complement(2159592..2160476),organism=Allochromatium vinosum DSM 180,definition=nitrogenase iron protein	0	2	2
+EF158808	 location=<1..855,organism=Paraburkholderia silvatlantica,definition=nitrogenase reductase	0	1	1
+AL672114	 location=complement(60905..61798),organism=Mesorhizobium loti R7A,definition=PROBABLE NITROGENASE IRON PROTEIN NIFH	0	0	5
