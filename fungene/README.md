@@ -1,0 +1,1 @@
+```for x in metags/*fa.x.nifh.blastnout.tsv; do python3 ../scripts/best-hit.py $x > $x.best; done```
