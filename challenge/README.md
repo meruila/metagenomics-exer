@@ -13,5 +13,5 @@ Genome of interest: Lactobacillus amylovorus
 ```cat Lactobacillus-amylovorus_genbank_seqs/* > all-Lacto-amylo.fa```
 
 ### 16S rRNA genes present in all-Lacto-amylo.fa
-There are **21** 16S rRNA genes. This was counted using the command below:
+There are **21** 16S rRNA genes. This was counted using this command:
 ```grep "product=\"16S ribosomal RNA\"" all-Lacto-amylo.fa | wc```
