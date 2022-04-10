@@ -1,0 +1,92 @@
+LOCUS       NR_076802               2897 bp    rRNA    linear   BCT 03-FEB-2015
+DEFINITION  Lactobacillus amylovorus strain GRL 1112 23S ribosomal RNA gene,
+            complete sequence.
+ACCESSION   NR_076802
+VERSION     NR_076802.1
+DBLINK      Project: 188943
+            BioProject: PRJNA188943
+KEYWORDS    RefSeq.
+SOURCE      Lactobacillus amylovorus
+  ORGANISM  Lactobacillus amylovorus
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+REFERENCE   1  (bases 1 to 2897)
+  AUTHORS   Kant,R., Paulin,L., Alatalo,E., de Vos,W.M. and Palva,A.
+  TITLE     Genome Sequence of Lactobacillus amylovorus GRL1112
+  JOURNAL   J. Bacteriol. 193 (3), 789-790 (2011)
+   PUBMED   21131492
+REFERENCE   2  (bases 1 to 2897)
+  CONSRTM   NCBI RefSeq Targeted Loci Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-FEB-2013) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 2897)
+  AUTHORS   Kant,R., Paulin,L., Alatalo,E., de Vos,W.M. and Palva,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-NOV-2010) Department of Veterinary Biosciences,
+            Faculty of Veterinary Medicine, University of Helsinki, Finland
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence is identical to CP002338:68075-70971.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..2897
+                     /organism="Lactobacillus amylovorus"
+                     /mol_type="rRNA"
+                     /strain="GRL 1112"
+                     /isolation_source="porcine feces"
+                     /db_xref="taxon:1604"
+                     /country="Finland: Helsinki"
+     rRNA            1..2897
+                     /product="23S ribosomal RNA"
+ORIGIN      
+        1 aaagggcgca cggtgaatgc ctaggcacta aaagccgatg aaggacgtga cgaactacga
+       61 aaagcttcgg ggagcggtaa gtacgctaag atccggagat gtccgaatgg gggaacccaa
+      121 tgcagcgatg cattattgaa tgatgaatag atagtcattc aaaggaatac gcagtgaact
+      181 gaaacatcta agtagctgca ggaagagaaa gaaaaatcga tttccttagt agcggcgagc
+      241 gaagaggaaa gagcccaaac caagtgattt atcatttggg gttgtaggac tgcgacgtgg
+      301 cagcgtgagt gatagcagaa ttatctggga aggtaagcca gagagggtga gagccccgta
+      361 agcgaaattg caagcgcgcc tagcagaatc ctgagtaggc cgggacacga ggaatcccgg
+      421 ttgaaaccgc gaggaccatc tcgcaaggct aaatactaat tagtgaccga tagtgaacca
+      481 gtaccgtgag ggaaaggtga aaagaacccc ggaaggggag tgaaagagaa cctgaaaccg
+      541 tgtgtctaca agtagtcaaa gcacattaag gtgcaatggc gtgccttttg tagaatgaac
+      601 cggcgagtta cgttaactag cgaggttaag tcagaaaaga cggagccgga gcgaaagcga
+      661 gtctgaatag ggcgagaagt tagttgacgt agacccgaaa ccaagtgacc tacccatgac
+      721 caggctgaag gtgtggtaaa acgcactgga gggccgaacc cacgtaagtt aaaaattgcg
+      781 gggatgagtt gtgggtagcg gtgaaattcc aaacgaactt ggagatagct ggttctctcc
+      841 gaaatagctt tagggctagc ctcgtggaga ggataatgga ggtagagctc tgtttggact
+      901 aggggcccgt caggggttac tgaatccaga taaactgcga attccatata tccatacacg
+      961 ggagtcagac tgcgagtgat aagatccgta gtcgaaaggg aaacagccca gatcaccagt
+     1021 taaggtcccc aaatctatgc taagtggaaa aggatgtgga gttgcgtaga caactaggac
+     1081 gttggctcag aagcagccat cattcaaaga gtgcgtaata gctcactagt cgagtggcgc
+     1141 tgcgccgaaa atttaccggg gctaagcata gtaccgaaac tgtggatgtg ttttaaagag
+     1201 cacgtggtag gagagcgttc taagtgcggc gaaggctaat cgagaggata gttggagcgc
+     1261 ttagaagtga gaatgccggt atgagtagcg aaagataggt gagaatccta tccgccgaaa
+     1321 gactaaggtt tcctggggca ggctcgtccg cccagggtaa gtcgggacct aaggcaaggc
+     1381 cgagaggcgt agtcgatgga taacaggtag agattcctgt actgtgttca atcgttatga
+     1441 gcaatggagg gacgcaggag gcgaaacacg catcgagctg gatcgatgtt caagcagcga
+     1501 gtgcggttaa gagtcaaatg cttctaacca gcaacatgag ctgtgatgag tagcgaagta
+     1561 aaagtagcga aggtgatgta gtcacactgc caagaaaagc ttctagccag agagaacata
+     1621 cccgtaccgc aaaccgacac aggtagtcga gtggagaaca ctaaggtgag cgagagaact
+     1681 ctcgttaagg aactcggcaa aatgaccccg taacttcgga agaaggggtg ctggccatga
+     1741 gagtggttag ccgcagtgaa taggcccaaa caactgttta tcaaaaacac aggtctctgc
+     1801 aaaatcgtaa gatgacgtat agaggctgac acctgcccgg tgctggaagg ttaagaggag
+     1861 agcttagcgc aagcgaaggt ttgaattgaa gccccagtaa acggcggccg taactataac
+     1921 ggtcctaagg tagcgaaatt ccttgtcggg taagttccga cctgcacgaa aggtgtaatg
+     1981 atttgggcac tgtctcaacg agagactcgg tgaaattata atacccgtga agatgcgggt
+     2041 tacccgcgac aggacggaaa gaccccatgg agcttcactg tagcttgata ttgagtatct
+     2101 tttaaacatg tacaggatag gtaggagcca aggaatgcag gacgctagtc ttgcaggagg
+     2161 caatgttggg atactaccct tgtttgaagg atgctctaac ctcgacctgt aagccaggcc
+     2221 agggacagtg tcaggtgggc agtttgactg gggcggtcgc ctcctaaagt gtaacggagg
+     2281 cgcccaaagg ttccctcaga atggttggaa atcattcgca gagtgtaaag gtataaggga
+     2341 gcttgactgc gagagagaca actcgagcag ggacgaaagt cgggcttagt gatctggtgg
+     2401 taccgtatgg aagggccatc actcaacgga taaaagctac cctggggata acaggcttat
+     2461 ctcccccaag agttcacatc gacggggagg tttggcacct cgatgtcggc tcgtcgcatc
+     2521 ctggggctga agtcggtccc aagggttggg ctgttcgccc attaaagcgg cacgcgagct
+     2581 gggttcagaa cgtcgtgaga cagttcggtc cctatccgtc gtgggcgtag gaaatttgag
+     2641 aggagctgtc cttagtacga gaggaccggg atggacgcac cgctggtgta ccagttgttc
+     2701 cgccaggagc atcgctgggt agctatgtgc ggaagggata agcgctgaaa gcatctaagt
+     2761 gcgaagcccc cctcaagatg agatttcctt tgcgtaagca gtaagacacc tcagagacga
+     2821 tgaggtagat aggctgggag tggaagttct gtgaagaatg gagcggacca gtactaatca
+     2881 gtcgaggact tgaccaa
+//
+

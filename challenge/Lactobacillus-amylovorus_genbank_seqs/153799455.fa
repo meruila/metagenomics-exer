@@ -1,0 +1,49 @@
+LOCUS       EU000475                 411 bp    DNA     linear   BCT 23-JUL-2016
+DEFINITION  Lactobacillus amylovorus strain DSM 20532 phenylalanyl-tRNA
+            synthase alpha subunit (pheS) gene, partial cds.
+ACCESSION   EU000475
+VERSION     EU000475.1
+KEYWORDS    .
+SOURCE      Lactobacillus amylovorus
+  ORGANISM  Lactobacillus amylovorus
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+REFERENCE   1  (bases 1 to 411)
+  AUTHORS   Jakava-Viljanen,M., Murros,A., Palva,A. and Bjorkroth,K.J.
+  TITLE     Lactobacillus sobrius Konstantinov et al. 2006 is a later synonym
+            of Lactobacillus amylovorus Nakamura 1981
+  JOURNAL   Int. J. Syst. Evol. Microbiol. 58 (PT 4), 910-913 (2008)
+   PUBMED   18398193
+REFERENCE   2  (bases 1 to 411)
+  AUTHORS   Jakava-Viljanen,M., Murros,A., Palva,A. and Bjorkroth,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-JUN-2007) Basic Veterinary Sciences, Microbiology and
+            Epidemiology, Agnes Sjobergin katu 2, University of Helsinki
+            FIN-00014, Finland
+FEATURES             Location/Qualifiers
+     source          1..411
+                     /organism="Lactobacillus amylovorus"
+                     /mol_type="genomic DNA"
+                     /strain="DSM 20532"
+                     /db_xref="taxon:1604"
+     gene            <1..>411
+                     /gene="pheS"
+     CDS             <1..>411
+                     /gene="pheS"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="phenylalanyl-tRNA synthase alpha subunit"
+                     /protein_id="ABS50503.1"
+                     /translation="RDMQATFYIDDEDLLRSQTSGDQARVLEKHDFSKGPLKMVGPGK
+                     VYRRDDDDATHSHQFMQMEGLVVDKNVTMSDLKGTLEMIAKHVFGQDRATRLRPSYFP
+                     FTEPSVEMDVSCFNCNGKGCPICKYTGWIEVLGAG"
+ORIGIN      
+        1 cgtgatatgc aagctacttt ctacattgac gatgaagact tgcttagaag tcaaacttca
+       61 ggtgaccaag ctcgtgtcct tgaaaagcat gacttctcaa agggcccact taagatggtt
+      121 ggtcctggta aggtttaccg tcgtgatgat gacgatgcaa ctcactcaca ccaattcatg
+      181 caaatggaag gtttggttgt cgataagaac gtaaccatga gtgatttgaa gggtactctt
+      241 gaaatgatcg ctaagcacgt cttcggtcaa gatagagcaa ctcgtcttcg tccaagttac
+      301 ttcccattca ccgaaccatc agttgaaatg gacgtatctt gcttcaactg taacggcaag
+      361 gggtgtccta tttgtaaata cactggctgg atcgaagtat taggagcagg c
+//
+

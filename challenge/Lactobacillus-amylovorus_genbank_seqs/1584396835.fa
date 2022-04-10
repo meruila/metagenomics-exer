@@ -1,0 +1,992 @@
+LOCUS       NZ_PNRB01000016        37408 bp    DNA     linear   CON 29-MAR-2022
+DEFINITION  Lactobacillus amylovorus strain PMRA1 PMRA1_0016, whole genome
+            shotgun sequence.
+ACCESSION   NZ_PNRB01000016 NZ_PNRB01000000
+VERSION     NZ_PNRB01000016.1
+DBLINK      BioProject: PRJNA224116
+            BioSample: SAMN08294903
+            Assembly: GCF_004307475.1
+KEYWORDS    WGS; RefSeq.
+SOURCE      Lactobacillus amylovorus
+  ORGANISM  Lactobacillus amylovorus
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+REFERENCE   1  (bases 1 to 37408)
+  AUTHORS   Nam,Y.-D., Kang,J. and Chung,W.-H.
+  TITLE     draft genome sequencing of Lactobacillus amylovorus PMRA1
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 37408)
+  AUTHORS   Nam,Y.-D., Kang,J. and Chung,W.-H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JAN-2018) Research Group of Gut Microbiome, Korea
+            Food Research Institute, 245, Nongsaengmyeong-ro, Iseo-myeon,
+            Wanju_Gun, Jeollabuk-do 565-851, Korea, Republic of
+COMMENT     REFSEQ INFORMATION: The reference sequence is identical to
+            PNRB01000016.1.
+            The annotation was added by the NCBI Prokaryotic Genome Annotation
+            Pipeline (PGAP). Information about PGAP can be found here:
+            https://www.ncbi.nlm.nih.gov/genome/annotation_prok/
+            
+            ##Genome-Assembly-Data-START##
+            Assembly Method        :: HGAP v. 4.0
+            Genome Representation  :: Full
+            Expected Final Version :: Yes
+            Genome Coverage        :: 581.0x
+            Sequencing Technology  :: PacBio
+            ##Genome-Assembly-Data-END##
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider               :: NCBI RefSeq
+            Annotation Date                   :: 03/29/2022 03:06:50
+            Annotation Pipeline               :: NCBI Prokaryotic Genome
+                                                 Annotation Pipeline (PGAP)
+            Annotation Method                 :: Best-placed reference protein
+                                                 set; GeneMarkS-2+
+            Annotation Software revision      :: 6.1
+            Features Annotated                :: Gene; CDS; rRNA; tRNA; ncRNA;
+                                                 repeat_region
+            Genes (total)                     :: 1,684
+            CDSs (total)                      :: 1,645
+            Genes (coding)                    :: 1,556
+            CDSs (with protein)               :: 1,556
+            Genes (RNA)                       :: 39
+            rRNAs                             :: 2, 2, 2 (5S, 16S, 23S)
+            complete rRNAs                    :: 2, 2, 2 (5S, 16S, 23S)
+            tRNAs                             :: 30
+            ncRNAs                            :: 3
+            Pseudo Genes (total)              :: 89
+            CDSs (without protein)            :: 89
+            Pseudo Genes (ambiguous residues) :: 0 of 89
+            Pseudo Genes (frameshifted)       :: 48 of 89
+            Pseudo Genes (incomplete)         :: 43 of 89
+            Pseudo Genes (internal stop)      :: 21 of 89
+            Pseudo Genes (multiple problems)  :: 21 of 89
+            CRISPR Arrays                     :: 1
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..37408
+                     /organism="Lactobacillus amylovorus"
+                     /mol_type="genomic DNA"
+                     /submitter_seqid="PMRA1_0016"
+                     /strain="PMRA1"
+                     /isolation_source="feces"
+                     /host="pig"
+                     /db_xref="taxon:1604"
+                     /country="South Korea: Seoul"
+                     /collection_date="2016-10-04"
+     gene            complement(<1..1232)
+                     /gene="pepT"
+                     /locus_tag="C1A34_RS07280"
+                     /old_locus_tag="C1A34_07290"
+     CDS             complement(<1..1232)
+                     /gene="pepT"
+                     /locus_tag="C1A34_RS07280"
+                     /old_locus_tag="C1A34_07290"
+                     /EC_number="3.4.11.4"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_005723045.1"
+                     /GO_function="GO:0045148 - tripeptide aminopeptidase
+                     activity [Evidence IEA]"
+                     /GO_process="GO:0006508 - proteolysis [Evidence IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="peptidase T"
+                     /protein_id="WP_130898811.1"
+                     /translation="MSFYDLDFIEKTFIHYAKENTRSYEEKHDQVPTSIGQVKMGKEL
+                     TKQLQEIGLDAYYNEKTGFAIGHLKKNVTDDVTPIGFFSHIDTADFNAENIRPQVHRN
+                     YDGKRVVLDEKEGIYLDPKDFPALASCKGETLITSDGHTLLGTDDKAGIVGILSMLKY
+                     LTEHPDIEHGDIYIGFGPDEEIGYGGRRFDAKDFPGVELAYTLENGRPGDFEYETFNA
+                     TEAQIHIRGTVVHPGEAYGLMVNAASLMNDFLDRLPKDEVPEKSKGHDGFILVLNAAG
+                     SVDHADISLIIRDFDWDKFTAKEQLIKDIVAELNQKYGDRFSLKMRRQYENIYNVIKD
+                     QPYVVNLALDAYKKLGIKPNIQTFRGGTDGNFITQKGIPTPNLFNGGGNYHGRYEYAT
+                     VEQIDKLAEVLTEIVKEH"
+     gene            complement(1343..2257)
+                     /locus_tag="C1A34_RS07285"
+                     /old_locus_tag="C1A34_07295"
+     CDS             complement(1343..2257)
+                     /locus_tag="C1A34_RS07285"
+                     /old_locus_tag="C1A34_07295"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_013438386.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="L-lactate dehydrogenase"
+                     /protein_id="WP_013438386.1"
+                     /translation="MRKVGIIGLGHVGATVAYTLFTHGIADELVLLDKNEDKVAAEYN
+                     DLHDTLARNNYYVRVTMQDWHELKDADVVVTAFGDIAASVKTGDRFGEFELNAKNAKE
+                     VGEKIKNSGFKGVLINISNPCDAVAQILQETTGLSKNQVFGTGTFLDTARMQRIVGEK
+                     LGQDPRNVEGWVLGEHGSSQFIAWSTVRVNNKIAIQLFSENEQKKLSKQPNKNSFVVA
+                     NGKGYTSYAIATCATRLIQAVFSDARLFAPVSVYNPEYKTYIGYPAIIGRDGIEQVVE
+                     LKLTSSEREKLQAAADKIKEHLDQLKNK"
+     gene            complement(2319..2795)
+                     /gene="greA"
+                     /locus_tag="C1A34_RS07290"
+                     /old_locus_tag="C1A34_07300"
+     CDS             complement(2319..2795)
+                     /gene="greA"
+                     /locus_tag="C1A34_RS07290"
+                     /old_locus_tag="C1A34_07300"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_005727150.1"
+                     /GO_function="GO:0003677 - DNA binding [Evidence IEA];
+                     GO:0070063 - RNA polymerase binding [Evidence IEA]"
+                     /GO_process="GO:0032784 - regulation of DNA-templated
+                     transcription, elongation [Evidence IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="transcription elongation factor GreA"
+                     /protein_id="WP_013438387.1"
+                     /translation="MPEKSYPMTAEGKEKLQAELKNLKLVKRPEVIQRIKVARSFGDL
+                     SENSEYDAAKDEQSHVEDRIAQVEDMLKYAQVVDADSVDPNEVSVGKTVTYTEVGTDD
+                     PETYTIVGSDESDPLNGKISNDSPIAQALLGKKKGETVSITTPGGQFDVVINKVEA"
+     gene            complement(2875..5289)
+                     /gene="pheT"
+                     /locus_tag="C1A34_RS07295"
+                     /old_locus_tag="C1A34_07305"
+     CDS             complement(2875..5289)
+                     /gene="pheT"
+                     /locus_tag="C1A34_RS07295"
+                     /old_locus_tag="C1A34_07305"
+                     /EC_number="6.1.1.20"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_013438388.1"
+                     /GO_component="GO:0009328 - phenylalanine-tRNA ligase
+                     complex [Evidence IEA]"
+                     /GO_function="GO:0004826 - phenylalanine-tRNA ligase
+                     activity [Evidence IEA]"
+                     /GO_process="GO:0006432 - phenylalanyl-tRNA aminoacylation
+                     [Evidence IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="phenylalanine--tRNA ligase subunit beta"
+                     /protein_id="WP_052543124.1"
+                     /translation="MLVSYNWLQDFLNLDQEPHALAEKITRTGVEIADVKHPEEGLKK
+                     LVVGKVLDCKGVEGTHLHLTHVDVGEDKPLQIVCGAPNVDAGELVIVALHGARIAGNE
+                     KIKKGKIRGMESYGMICGLQEIGFNDSVVPEEFADGIYVFPEDADVKPGQDVYEALGM
+                     DDYILDFDITPNRADTLSMEGAAYEVGAIVDQKPKVEDVVLKEDGPDWTDSLDVKVDE
+                     KLASKFYLRKLTGVKIQDSPLWMQRRLWNAGIRPINNVVDVTNYVMLLTGQPMHAYDA
+                     KAFENGKLEVRLANKGEKLTLLNEKEVELDPKDIVITDGEKPVMMAGVMGGLNSEITS
+                     ETTDVILESAIFDPTLVRKAALRHANRTEASSRYEKGTNWDATEKAINMAALLLRNDA
+                     SATVDEGIIKAADTKREPVAVKTTISHINKVLGSEISPEDMLKIFDRLGFPVDRDGDD
+                     ITVHVPNRRWDISIPADLVEEVGRIYGYDNLKSTQPLLAETHGGYSEKEEMMRRMKAI
+                     VEGQGLMEAISYSLTSPEKATRYTKDPKDIVKVQMPLNSSRSVMRQNLMAGLVDAASY
+                     NFARKQTQLALFEQGRVYDHDGGIYNEHEHLAALYSGNTFAENWQHLTQKVDFYFVKG
+                     QLTNLFDAVGIDPEKVVYRAESIEGMHPTRTAGIYIDKQYVGMIGMIAHAVTLSDKAL
+                     RNAELYGYEINLDVIIPMLTKGMTAVPAPKFPAIERDLSLLVDKEVTNQEVENVIKSN
+                     AGKYLVDLKVIDVYEGSHLAAGKKSFAYNLTFLNRKDTLTDEVVNNAMDKIIAGLEND
+                     LDIKVR"
+     gene            complement(5293..6342)
+                     /gene="pheS"
+                     /locus_tag="C1A34_RS07300"
+                     /old_locus_tag="C1A34_07310"
+     CDS             complement(5293..6342)
+                     /gene="pheS"
+                     /locus_tag="C1A34_RS07300"
+                     /old_locus_tag="C1A34_07310"
+                     /EC_number="6.1.1.20"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_005719858.1"
+                     /GO_component="GO:0009328 - phenylalanine-tRNA ligase
+                     complex [Evidence IEA]"
+                     /GO_function="GO:0004826 - phenylalanine-tRNA ligase
+                     activity [Evidence IEA]"
+                     /GO_process="GO:0006432 - phenylalanyl-tRNA aminoacylation
+                     [Evidence IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="phenylalanine--tRNA ligase subunit alpha"
+                     /protein_id="WP_013438389.1"
+                     /translation="MDLFDKLKELHEEGLKQINKATDEQTLNKVRVELVGRKGELTKI
+                     LHSMRDVAPENRREVGQKVNELRDLFNTQLDAAKDEIVKAVLAKRLEEEKIDVTLPGR
+                     QGHLGSKHPINIILDDLESYFIGMGYKVVQGPEIETDHYCFEMMNLPKDHPARDMQAT
+                     FYIDDEDLLRSQTSGDQARVLEKHDFSKGPLKMVGPGKVYRRDDDDATHSHQFMQMEG
+                     LVVDKNVTMSDLKGTLEMIAKHVFGQDRATRLRPSYFPFTEPSVEMDVSCFNCNGKGC
+                     PICKYTGWIEVLGAGMVHPNVLENAGVDSNVYGGFAFGVGLDRFAILKYGIDDIRDFY
+                     TNDVRFLEQFRKEEK"
+     misc_binding    complement(6380..6587)
+                     /inference="COORDINATES: nucleotide
+                     motif:Rfam:14.4:RF00230"
+                     /inference="COORDINATES: profile:INFERNAL:1.1.1"
+                     /note="T-box leader; Derived by automated computational
+                     analysis using gene prediction method: cmsearch."
+                     /bound_moiety="tRNA"
+                     /db_xref="RFAM:RF00230"
+     gene            complement(6626..6976)
+                     /locus_tag="C1A34_RS07305"
+                     /old_locus_tag="C1A34_07315"
+     CDS             complement(6626..6976)
+                     /locus_tag="C1A34_RS07305"
+                     /old_locus_tag="C1A34_07315"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_007126524.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="helix-turn-helix transcriptional regulator"
+                     /protein_id="WP_013642286.1"
+                     /translation="MQEVKEKKETTPCKPEDYELCSHFINAFRIIGKKWNGLIISSLC
+                     DTEDMRFKDLARCIEACSDRVLVERLKELEQDGIVKRTVNKDTGIISYSLTEKGADLK
+                     PVFDQVHDWADKWA"
+     gene            complement(7069..7836)
+                     /locus_tag="C1A34_RS07310"
+                     /old_locus_tag="C1A34_07320"
+     CDS             complement(7069..7836)
+                     /locus_tag="C1A34_RS07310"
+                     /old_locus_tag="C1A34_07320"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_003627096.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="RNA methyltransferase"
+                     /protein_id="WP_022087790.1"
+                     /translation="MQQISSVNNATIKKLAKLKQKKYRDEENRYLIEGFHLFEEAVKA
+                     GKKYQYVLGTEEALDQVNEDYDIDLDGKNVILINKAIARHLSSTKNSQEIFMVLKIDQ
+                     PKEFPFNYGKWVLLDNLADPGNVGTIIRTADAAGFDGVVLSPESADLYNPKTQRAMQG
+                     SQFHIDLIKRDLADVITDFQDSAIPVYASILDKSAKQLQDFEKVPQLALIIGNEAHGV
+                     SETIASLSDEKLYIPIKGKAESLNAAVAAGIMIYHFV"
+     gene            7924..8196
+                     /locus_tag="C1A34_RS07315"
+                     /old_locus_tag="C1A34_07325"
+     CDS             7924..8196
+                     /locus_tag="C1A34_RS07315"
+                     /old_locus_tag="C1A34_07325"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_005719868.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="acylphosphatase"
+                     /protein_id="WP_013438392.1"
+                     /translation="METRKLVVSGLVQGVGFRWSTQMLANKMGIPGTVRNNSDGTVTI
+                     YIQGEPSELDHFIEKLPSASGFAHIENIDQELASNVEKMHSFNVLY"
+     gene            8237..9205
+                     /gene="yidC"
+                     /locus_tag="C1A34_RS07320"
+                     /old_locus_tag="C1A34_07330"
+     CDS             8237..9205
+                     /gene="yidC"
+                     /locus_tag="C1A34_RS07320"
+                     /old_locus_tag="C1A34_07330"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_014566067.1"
+                     /GO_component="GO:0031224 - intrinsic component of
+                     membrane [Evidence IEA]"
+                     /GO_function="GO:0003674 - molecular_function [Evidence
+                     IEA]"
+                     /GO_process="GO:0051205 - protein insertion into membrane
+                     [Evidence IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="membrane protein insertase YidC"
+                     /protein_id="WP_130898812.1"
+                     /translation="MKKIKRYTGVLALLVVAALVLSACGATNNPNVTPHSGIYGWVYQ
+                     WLGRPLQNIMIQTAHMIGGENGAGWGIVIITFVVRLILMPLMLVQQNKSVRQQEKMAR
+                     LQPQMKLIQTAMKHKGITPDQQMTLSGWQRELYSKNQVSLTGGMGCLPLIIQLPIMWG
+                     IYQAVFYSPQLAHSTFFGISLSQKSVVLAIVATVFTVIQGYISLIGIPEEQKKTMQSM
+                     MIVNPIMTLFFSLSFSGALALYWAAGNLVMIIQQLIVTFVLTPKVKQHVAEELKEKPV
+                     EVVVTQEKVDALFNPSGESNTANTEAKKELHQDLRNRNKGKQQRRK"
+     gene            complement(9249..10835)
+                     /locus_tag="C1A34_RS07325"
+                     /old_locus_tag="C1A34_07335"
+     CDS             complement(9249..10835)
+                     /locus_tag="C1A34_RS07325"
+                     /old_locus_tag="C1A34_07335"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_007126528.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="HAMP domain-containing histidine kinase"
+                     /protein_id="WP_130898813.1"
+                     /translation="MKMMIKNKRDRAKETKHSSLIVRWVSIVALTITVSFVLFSVVVY
+                     QIVSKQSMDQQEETSDNVVVTLERTLSSIPDELEISNVIPSLSPSTRRILNGGPAISS
+                     KDTRNNAFSDNLISLISNPDINVAVYNRHNEVVFANGDTTPKFSPFKGNRRVVQVKRN
+                     NKTTLVTYQKVYSSVNNKLTGYVVVSNKMTYYNHLMSNLLHWMLIISLIAIIFFVAIS
+                     YVLVVNVVRPIKTMSKVAKEVNADPNSEARIKPLNRDDELAELASSINQMLDRMQSYI
+                     EQQKQFVGDVSHELRTPVAVIEGHLNMLERWGKDDPQILDESIKASLQEADRMKHLIQ
+                     EMLDLTRAEQIDVQYPYEITNVNEVVRRVVSDLAMVHPDFKIQLDEDDLPDDTEIQMY
+                     HGHLEQLLVILIDNGIKYSTDRKQINVSAGVTKKEVSIMVQDFGEGISPEDQKKIFNR
+                     FYRVDKARTREKGGNGLGLSIAQKLVDSYRGEISVESVEGQGSQFKMVFPVLSKKRAA
+                     ELRKIEAEKHKNDVPDGILK"
+     gene            complement(10813..11529)
+                     /locus_tag="C1A34_RS07330"
+                     /old_locus_tag="C1A34_07340"
+     CDS             complement(10813..11529)
+                     /locus_tag="C1A34_RS07330"
+                     /old_locus_tag="C1A34_07340"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_013438395.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="response regulator transcription factor"
+                     /protein_id="WP_013438395.1"
+                     /translation="MAKILIIEDEKNLARFVELELQHENYETVVENNGRKGLDDALSQ
+                     DFDAILLDLMLPDLNGLEIARRVRQVKTTPIIMMTARDSVIDRVSGLDHGADDYIVKP
+                     FAIEELLARLRAVLRRVKIEKDASKVTVAKQKIVKFKDLTIETANRIVHRGDGKAIDL
+                     TKREYNLLMTLIENKNNVVSRDQLLNKIWGPESNIETNVVEVYVRYLRNKIDVPGQPS
+                     YIKTVRGTGYMVRDEDDDQE"
+     gene            complement(11687..12244)
+                     /locus_tag="C1A34_RS07335"
+                     /old_locus_tag="C1A34_07345"
+     CDS             complement(11687..12244)
+                     /locus_tag="C1A34_RS07335"
+                     /old_locus_tag="C1A34_07345"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_003627108.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="DUF177 domain-containing protein"
+                     /protein_id="WP_013642289.1"
+                     /translation="MLEISFSKIENASEPLTHIERDVKMRPEFFKRSKELLIDAKNVH
+                     LSGDLFYQEPFVTGNFHITADLTVPSSRSLKPVDYQEDFTFVENYIDRKPTKEELEDN
+                     DTIVQVDNDVIDLQTAVEDNMLLNIPTTILTPEEKEKNIFPEGNGWEVISESAFDEGK
+                     KNQVNPAFAKLKVLLDNQDDKNDKK"
+     gene            complement(12246..13397)
+                     /locus_tag="C1A34_RS07340"
+                     /old_locus_tag="C1A34_07350"
+     CDS             complement(12246..13397)
+                     /locus_tag="C1A34_RS07340"
+                     /old_locus_tag="C1A34_07350"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_014918456.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="nucleotidyltransferase"
+                     /protein_id="WP_130898814.1"
+                     /translation="MSVVGIISEFNPFHSGHEFLLNQARLIAQNDPIVVIMSGNYVQR
+                     GEMAIMSKWERAKAALQSGADLVFEMPFSTAVEPADLFSLGNIEQLSKLGVTDLVFGV
+                     EDANLNFAYLGGKIAEIPQNHMDFKDYSQTYSTQYNQMVAREVGHEINQPNAILGLAY
+                     SVANYNLGSPLKLHPINRIGAGHDDLLQRSGVVQSASAIRNLLLHGEDTSNLKYWMPK
+                     AEAAVLSKQKVYPNWNLLYPFLKYRIESSSVEDLRQIYQMSEGLEYKMKQEIHLSRDF
+                     TEFLRRIKSKRYTYSRLRRLSLYTLLNVTQDDMIASFNHESLMLLGFSKIGRNFLRDN
+                     RKNFQTEIISKVDKRSAKDGSLALQVRTDRLFEQIMGVDQNFGRRPIEV"
+     gene            complement(13403..13750)
+                     /gene="rsfS"
+                     /locus_tag="C1A34_RS07345"
+                     /old_locus_tag="C1A34_07355"
+     CDS             complement(13403..13750)
+                     /gene="rsfS"
+                     /locus_tag="C1A34_RS07345"
+                     /old_locus_tag="C1A34_07355"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_013438398.1"
+                     /GO_function="GO:0043022 - ribosome binding [Evidence
+                     IEA]"
+                     /GO_process="GO:0017148 - negative regulation of
+                     translation [Evidence IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribosome silencing factor"
+                     /protein_id="WP_013438398.1"
+                     /translation="MTSQEILDFTTKAISDRHGEDTEAYDMRGISILADYYVITSAGS
+                     NRQLHAIVNSIVDEAHQNNYTDYRIEGTRDSNWLLVDLGDVVVNIFTKEAREFYNLEK
+                     LWANGKQVELKED"
+     gene            complement(13772..14365)
+                     /gene="yqeK"
+                     /locus_tag="C1A34_RS07350"
+                     /old_locus_tag="C1A34_07360"
+     CDS             complement(13772..14365)
+                     /gene="yqeK"
+                     /locus_tag="C1A34_RS07350"
+                     /old_locus_tag="C1A34_07360"
+                     /EC_number="3.6.1.41"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_003627112.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="bis(5'-nucleosyl)-tetraphosphatase (symmetrical)
+                     YqeK"
+                     /protein_id="WP_130898815.1"
+                     /translation="MTKLTFKKTYSPLSSDEIIAKEKANMDKKRFKHCVRVSETARKL
+                     AKLNHYDEDKAALAGFVHDYAKQVPVEEYRKVIKEQDFDKDLLNWNRAIWHGIVGTYF
+                     IEHDLKIRDPEILTAVRRHTTGDTEMTMLDKIVFMADFIEPGRDFPGVDEARQITYAN
+                     IDEGVGYQLAHTLEFLVEKRKRIYPRTIAAYNVWSTK"
+     gene            complement(14346..14999)
+                     /locus_tag="C1A34_RS07355"
+                     /old_locus_tag="C1A34_07365"
+     CDS             complement(14346..14999)
+                     /locus_tag="C1A34_RS07355"
+                     /old_locus_tag="C1A34_07365"
+                     /EC_number="2.7.7.18"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_013438400.1"
+                     /GO_function="GO:0016779 - nucleotidyltransferase activity
+                     [Evidence IEA]"
+                     /GO_process="GO:0009435 - NAD biosynthetic process
+                     [Evidence IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="nicotinate-nucleotide adenylyltransferase"
+                     /protein_id="WP_013438400.1"
+                     /translation="MVNPKCIEKAPATEVKAQLEREDGKGRQIGIMGGTFNPVHIAHL
+                     VAAEQAMTKLRLDEVWFMPDNIPPHKNAPLTSAKDRATMLDLATRDNPKFRVKLLELF
+                     RGGVSYTVDTMRYLKEKAPQNNYYLIMGSDQVNSFHTWKEAPTLAKMVTLVGIRRPGY
+                     PQDPQYPMIWVDAPDIRLSSTAIRRSVATGTSIRYLVPEPVRKYIEEKGLYLDETNI"
+     gene            complement(15010..16119)
+                     /gene="yqeH"
+                     /locus_tag="C1A34_RS07360"
+                     /old_locus_tag="C1A34_07370"
+     CDS             complement(15010..16119)
+                     /gene="yqeH"
+                     /locus_tag="C1A34_RS07360"
+                     /old_locus_tag="C1A34_07370"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_003548317.1"
+                     /GO_component="GO:0005737 - cytoplasm [Evidence IEA]"
+                     /GO_function="GO:0005525 - GTP binding [Evidence IEA];
+                     GO:0003924 - GTPase activity [Evidence IEA]"
+                     /GO_process="GO:0042254 - ribosome biogenesis [Evidence
+                     IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribosome biogenesis GTPase YqeH"
+                     /protein_id="WP_013438401.1"
+                     /translation="MDEEIICIGCGAVLQSDDPKKAGYLPKSALDKARNEENAEVYCQ
+                     RCFRLRHYNEIMPVDLNNDDFLALLNSLSEKKALVVNVVDLFDFSNSLLSSLKRFVGG
+                     NDFILVGNKFDLFPKNSRQSKIKDWMRQEANRMGLYPKEIFLVSAKRKVNLESLIAYI
+                     NKQSQDKDVYFVGTTNVGKSTLINAIIDMMGDIQNLITTSRFPGTTLDRIEIPLENGH
+                     FLIDTPGIMTDNQLATHLNAKDLELISPKKPLKPATYQLMPGNTLFLAGLGRIDYLKG
+                     ESTSFTVYVARDMYVHRTKTANADAFYEKHVGELLAPPAKDDKLPALKGQEYRTEYKS
+                     DLLFGGIGFVTVPEGCVVKTYTPDGIGLGIRRALI"
+     gene            complement(16112..16636)
+                     /locus_tag="C1A34_RS07365"
+                     /old_locus_tag="C1A34_07375"
+     CDS             complement(16112..16636)
+                     /locus_tag="C1A34_RS07365"
+                     /old_locus_tag="C1A34_07375"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_013853749.1"
+                     /GO_function="GO:0008962 - phosphatidylglycerophosphatase
+                     activity [Evidence IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="YqeG family HAD IIIA-type phosphatase"
+                     /protein_id="WP_014566070.1"
+                     /translation="MLFRPKYTINTIYNLDPQKLNEMGIKAVFSDLDNTLLAWNKFET
+                     AKEMNKLNRRLAKANIKLVVISNNNAQRVGKVLTPYHIDFVSEARKPLPFAITRKRKE
+                     MHLQKDQVMMVGDQLITDMQAGNLAGVETVLVKPLVETDKWNTRINRFFEKIIFFFLG
+                     LSHRVTFKETLQNG"
+     gene            16776..17777
+                     /gene="add"
+                     /locus_tag="C1A34_RS07370"
+                     /old_locus_tag="C1A34_07380"
+     CDS             16776..17777
+                     /gene="add"
+                     /locus_tag="C1A34_RS07370"
+                     /old_locus_tag="C1A34_07380"
+                     /EC_number="3.5.4.4"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_005722239.1"
+                     /GO_function="GO:0004000 - adenosine deaminase activity
+                     [Evidence IEA]"
+                     /GO_process="GO:0043101 - purine-containing compound
+                     salvage [Evidence IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="adenosine deaminase"
+                     /protein_id="WP_130898816.1"
+                     /translation="MRKFIDLHLHLDGSVPVATVKKLMKEHNMPALSDEELRQELSVD
+                     SSCKSLDQFLEKFALPNKLMQTRHDLKTIVYDLLVELKQQGLVYAEIRFAPQLHTKKG
+                     LTQEDAIEAVISGLNKFLADQKKQKTLPELHAGLILCLMRFADNQKQNMETAKLAKKF
+                     LGKGVVGLDLAGAEGPIPNIKYKSFFDQAKKLGVPYTIHAGEADGPDSIRQALAMGAK
+                     RIGHGIRCTEDPELTQELIKKQLVLECCATSNMNTKAFDQIDSYPIKKLLHKGMKVTL
+                     NSDDMTVSNTNLPHEYKLLEQQTNLTPAEETTLYLNAVDAAFTTPDEKIRLRALIQK"
+     gene            complement(17829..18185)
+                     /gene="rplT"
+                     /locus_tag="C1A34_RS07375"
+                     /old_locus_tag="C1A34_07385"
+     CDS             complement(17829..18185)
+                     /gene="rplT"
+                     /locus_tag="C1A34_RS07375"
+                     /old_locus_tag="C1A34_07385"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_003548326.1"
+                     /GO_component="GO:0005840 - ribosome [Evidence IEA]"
+                     /GO_function="GO:0019843 - rRNA binding [Evidence IEA];
+                     GO:0003735 - structural constituent of ribosome [Evidence
+                     IEA]"
+                     /GO_process="GO:0006412 - translation [Evidence IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="50S ribosomal protein L20"
+                     /protein_id="WP_003627118.1"
+                     /translation="MPRVKGGIVTRKRRKKVMKLAKGYRGAKHMQFKAASTQLFVSYK
+                     YAFRDRRRRKSEFRKLWIARINAAARQNDISYSKLMHGLKLAGVDMNRKMLADIAYND
+                     SKTFAQLAETAKKALN"
+     gene            complement(18226..18426)
+                     /gene="rpmI"
+                     /locus_tag="C1A34_RS07380"
+                     /old_locus_tag="C1A34_07390"
+     CDS             complement(18226..18426)
+                     /gene="rpmI"
+                     /locus_tag="C1A34_RS07380"
+                     /old_locus_tag="C1A34_07390"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_003627120.1"
+                     /GO_component="GO:0022625 - cytosolic large ribosomal
+                     subunit [Evidence IEA]; GO:0000315 - organellar large
+                     ribosomal subunit [Evidence IEA]"
+                     /GO_function="GO:0003735 - structural constituent of
+                     ribosome [Evidence IEA]"
+                     /GO_process="GO:0006412 - translation [Evidence IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="50S ribosomal protein L35"
+                     /protein_id="WP_013642294.1"
+                     /translation="MPKMKTHRASAKRFKRTANGGLKRHHAFTGHRFHGKTKKQRRHL
+                     RKAAMVSSSDMKRIKQMVAQMH"
+     gene            complement(18455..18982)
+                     /gene="infC"
+                     /locus_tag="C1A34_RS07385"
+                     /old_locus_tag="C1A34_07395"
+     CDS             complement(18455..18982)
+                     /gene="infC"
+                     /locus_tag="C1A34_RS07385"
+                     /old_locus_tag="C1A34_07395"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_003715336.1"
+                     /GO_function="GO:0003743 - translation initiation factor
+                     activity [Evidence IEA]"
+                     /GO_process="GO:0006413 - translational initiation
+                     [Evidence IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="translation initiation factor IF-3"
+                     /protein_id="WP_081456868.1"
+                     /translation="MPRSLILNDRIRAREVRLIDEDGEQVGVMNKMEALRRASDAGLD
+                     LVLISPNAKPPVARIMDYGKYRFEQQKKLKESRKKSKTVSVKEIRLSPTIEGNDFETK
+                     LKHVRKFVSKEGAKVRVSIRFRGRAITHKELGQQVLEKMAESTSDIANVISKPKMEGR
+                     SMFLMLAPKSEKDKK"
+     misc_feature    complement(19009..19120)
+                     /inference="COORDINATES: nucleotide
+                     motif:Rfam:14.4:RF00558"
+                     /inference="COORDINATES: profile:INFERNAL:1.1.1"
+                     /note="ribosomal protein L20 leader region; Derived by
+                     automated computational analysis using gene prediction
+                     method: cmsearch."
+                     /db_xref="RFAM:RF00558"
+     gene            complement(19174..20871)
+                     /locus_tag="C1A34_RS07390"
+                     /old_locus_tag="C1A34_07400"
+     CDS             complement(19174..20871)
+                     /locus_tag="C1A34_RS07390"
+                     /old_locus_tag="C1A34_07400"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_013642296.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="aryl-sulfate sulfotransferase"
+                     /protein_id="WP_130898817.1"
+                     /translation="MKSNGILLALAMSSFMLTIPVVMLHEQSKTVLAQKKNGNAKKTK
+                     LSDSQIIKNLGVKKVANPSNDALTTKYANIVKGQQYTWENPYIKVNPYENSPLTALMI
+                     FHTDQPTKISYRVIGKTANTTIKNEVKGYQTNHQVPIVGLYAGYDNSVEVTMTDQFDN
+                     KQTKTVKIKTANLPKWIKSFPINVTVKDKTKMSLGSNELTVLNRTTKQTFAVDGDGEV
+                     RWYYLRWNEHIFEQLNNGHILLFNKIKSGDEKYNMLVETDYLGRVYRQFSFDKTLGGS
+                     YAGTAGLSLVHHDVAEMPNGNWLLTVDDGSKYVEDTIAELNPNTGKIVKVIDFKKIFP
+                     ESMYKKSKIKANDNTSSGLGLMDWLHINTIDYDAKTGNILLSARNQDIIWSMNYQTKK
+                     INWIFTSKPAKEWPSSFHKYLLKPSKGTKYPGGQHGIYLLKETGSKLDILLYDNNIAV
+                     TNGDKKQSGKFSAATEYQIDTKKKTIKQVWSYGKNLGKQNFTEVIGYAQRLNNGNTLI
+                     NFGFKNTGKESNIIEVDAYGNQVFNLTITNSPKDMTYVYRAYRMQFYPDNYVFDATK"
+     gene            complement(20969..22219)
+                     /locus_tag="C1A34_RS07395"
+                     /old_locus_tag="C1A34_07405"
+     CDS             complement(20969..22219)
+                     /locus_tag="C1A34_RS07395"
+                     /old_locus_tag="C1A34_07405"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_014918450.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="DUF389 domain-containing protein"
+                     /protein_id="WP_013642297.1"
+                     /translation="MSRRNYLSPQFLTKISDDGTLNIESLIILTCAIFIASIGLNVNS
+                     TAIIIGAMLISPLMGPLLAIGTGLALYNTNILRKGAISLLAEIIISLIASTIYFHFSP
+                     LTYASQEIIARTSPTIWDVMIAFFGGSAGIIGARKKGANNIVPGVAIATALMPPLCTV
+                     GYSIAAGNLKYFLGSSYLFLINCVFITLTAFLGVKIMKWLSHSAGQPGLSFFRKPTLK
+                     EVGIVMVVIILIIPSILSAGHMVNKTLVDQNVQNLVANELGDVNLIKENVDSQEKTIN
+                     LTVSGNKISAKKIQAAKANLDEYNLKGYSLNIVQVAQVNPNAENQLDRQVNNIINQRQ
+                     REQEQANEKRQQEQEKHNQEIQKLSPAISSVTTVSDNKNKQITLVELKKDISAKKKKA
+                     LVKQIKKKYPNINLVEFVQESEKE"
+     gene            complement(22226..22615)
+                     /locus_tag="C1A34_RS07400"
+                     /old_locus_tag="C1A34_07410"
+     CDS             complement(22226..22615)
+                     /locus_tag="C1A34_RS07400"
+                     /old_locus_tag="C1A34_07410"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_014918449.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ACT domain-containing protein"
+                     /protein_id="WP_165443893.1"
+                     /translation="MIKESIYELTIKKLPYQLTVCQLSDIKDLNFKNDFYFFAKTDEE
+                     LSLVCETKNAPSKTINREDGWRAFKIEGQLDFSLIGILAKIAQLLANNGISIFAVSTF
+                     YTDYVLVKDNNFDSAIKILSKNNYEIK"
+     gene            complement(22678..23205)
+                     /locus_tag="C1A34_RS07405"
+                     /old_locus_tag="C1A34_07415"
+     CDS             complement(22678..23205)
+                     /locus_tag="C1A34_RS07405"
+                     /old_locus_tag="C1A34_07415"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_013642299.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="WP_014566073.1"
+                     /translation="MKKKFLLLLSAFLLVLGLASVSSKTDAATIKATDWGAKKVFTTP
+                     KKTRGTWYYKEDKKVKKFKITAYTIDGVKLYKDLNGKTSDKWVNKLIKADKKANYKLA
+                     DKVGESAWACHTIKYHKITGFNADGWLAGSGDGFYYVPVKKNVKGKKVNALRVGEGAG
+                     NYLSYYAYKSRKLVK"
+     gene            complement(23364..25298)
+                     /gene="thrS"
+                     /locus_tag="C1A34_RS07410"
+                     /old_locus_tag="C1A34_07420"
+     CDS             complement(23364..25298)
+                     /gene="thrS"
+                     /locus_tag="C1A34_RS07410"
+                     /old_locus_tag="C1A34_07420"
+                     /EC_number="6.1.1.3"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_012212129.1"
+                     /GO_component="GO:0005737 - cytoplasm [Evidence IEA]"
+                     /GO_function="GO:0004829 - threonine-tRNA ligase activity
+                     [Evidence IEA]"
+                     /GO_process="GO:0006435 - threonyl-tRNA aminoacylation
+                     [Evidence IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="threonine--tRNA ligase"
+                     /protein_id="WP_013642300.1"
+                     /translation="MSFSVTLPDGSKKEFDKAVSVKDVASSIATSLGKAAVGAKVNGQ
+                     VKPLDYEIDSDVEIAILTDKDEEGLDILRATAAFALEAVAKKKYPELRLGEHVADEGG
+                     FYVDTDKKDQIKVTELPELEKAMEKLVKSGQAIEHVEMDKSELEDIYKDDPYKSELLK
+                     KVEGDKVDAYKLGDFVDFGFDALLPNTGKIKHFKLLSVAGAYWLGKSSNPMLQRIFGT
+                     AFFKEAALKDDLKRRAEIKERDHRTIGRDLDLFFVDPKVGAGLPYWMPKGATIRRVVE
+                     RYIIDREVADGYQHVYTPVLMNLDAYKTSGHWAHYRDDMFPPMDMGDGEMLELRPMNC
+                     PSHIQIYKHHIRSYRDLPLRVAELGMMHRYEKSGALSGLQRVREMTLNDGHTFVALDQ
+                     VQDEFAKILKLIMDVYKDFDITDYYFRLSYRDPKNTEKYFANDEMWERSQKMLKGAMD
+                     DLGLDYVEAEGEAAFYGPKLDIQTKTALGNDETMSTIQLDFMLPERFGLTYVGQDGEE
+                     HRPVMIHRGIVGTMERFIAYLTEIYKGAFPTWLAPIQAEIIPVNNDAHGEYAEKVRQE
+                     LAKRGFRAEVDNRNEKMGYKIRESQTQKVPYTLVLGDEEMKNGSVNVRRYGTDEEISK
+                     SLDDFIKEIDADVKSYSREN"
+     gene            complement(25580..26497)
+                     /gene="dnaI"
+                     /locus_tag="C1A34_RS07415"
+                     /old_locus_tag="C1A34_07425"
+     CDS             complement(25580..26497)
+                     /gene="dnaI"
+                     /locus_tag="C1A34_RS07415"
+                     /old_locus_tag="C1A34_07425"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_005728262.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="primosomal protein DnaI"
+                     /protein_id="WP_130898818.1"
+                     /translation="MEPIGNVIKQIVKQRNLGDEKTLENQALHDPDVQAFLKQNADKI
+                     DQKMIHNSMSNLYEFYSQKTHPNKVMAGYAPQLFLNGKVIDIRYAPTRAKIAQDRKKA
+                     AQRRLQLIDLPARLHDVSLSEIDVTDDRNNVLALIYDFLKKYKKDPHQKGLYLSGDFG
+                     VGKTYILAGLANYVVTNMNKNVIFLHVPTFIAGLASHFDDNSRISLQEEIRRLSECDL
+                     LILDDIGAESLSQWSRDDVLGVILQARMDNVLPTFFSSNLDMEALQSHFEETRNATDP
+                     VKARRLMQRVRFLAKEIVVPGPDRRNSLH"
+     gene            complement(26514..27863)
+                     /locus_tag="C1A34_RS07420"
+                     /old_locus_tag="C1A34_07430"
+     CDS             complement(26514..27863)
+                     /locus_tag="C1A34_RS07420"
+                     /old_locus_tag="C1A34_07430"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_013086688.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="DnaD domain protein"
+                     /protein_id="WP_130898819.1"
+                     /translation="MFETSDPKHLYYVANRVTLFPEDEQILIKLYQPLVGAVAVALYQ
+                     TLISDYDPYGIISDSKGIYSLQEQLDCSLKTMFTSLHKLEAVGLVQTFLSDNVFNNVL
+                     VFKLLKVPSADKFFATPLLASLLKEKVGEETFHELSHKFAKEAKLREKPIKNARDVSA
+                     NFFDMFRLPGDEAITPSSDVIEAAKENKVHEEEVAQVNDRDAIDWDFIKEQYEVYQIP
+                     ASEVDNKKNQIRSLMQTYGLSEKEFVDESLPCLHGSYELNMRDISNTLAENYKRINTR
+                     EHVQKQVNEGRKKALAAIKGLDDNDKKLLKEANESSPAEFLYKIKTEKGGIASAGERQ
+                     IINNLHTQYGLPEDLINILTYTCLTYDTVVNSNLAYKIANDWLQHGVATAVQALQYVK
+                     KRRDSFGNGNNRRSRRNYNYQNKRVEKGTDWSKKKVDTNSGISTAQLKNLFKDLNNK"
+     gene            complement(27866..28333)
+                     /gene="nrdR"
+                     /locus_tag="C1A34_RS07425"
+                     /old_locus_tag="C1A34_07435"
+     CDS             complement(27866..28333)
+                     /gene="nrdR"
+                     /locus_tag="C1A34_RS07425"
+                     /old_locus_tag="C1A34_07435"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_003627138.1"
+                     /GO_function="GO:0140110 - transcription regulator
+                     activity [Evidence IEA]"
+                     /GO_process="GO:0006355 - regulation of transcription,
+                     DNA-templated [Evidence IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="transcriptional regulator NrdR"
+                     /protein_id="WP_013438410.1"
+                     /translation="MECPNCHQNASRVIDSRPSDENRAIRRRRECENCGFRFTTFERI
+                     ETAPLLVIKNDGTREPFSRKKILHGVMAAGQKRPISSEQFEQLVDHVENKVRKQGVSE
+                     ISSKKIGQYVMDELADLDDVAYIRFASIYREFKDMSSFMKTMEDMMAKKEKGN"
+     gene            complement(28336..28938)
+                     /gene="coaE"
+                     /locus_tag="C1A34_RS07430"
+                     /old_locus_tag="C1A34_07440"
+     CDS             complement(28336..28938)
+                     /gene="coaE"
+                     /locus_tag="C1A34_RS07430"
+                     /old_locus_tag="C1A34_07440"
+                     /EC_number="2.7.1.24"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_003548347.1"
+                     /GO_component="GO:0005737 - cytoplasm [Evidence IEA]"
+                     /GO_function="GO:0004140 - dephospho-CoA kinase activity
+                     [Evidence IEA]"
+                     /GO_process="GO:0015937 - coenzyme A biosynthetic process
+                     [Evidence IEA]"
+                     /note="Dephospho-CoA kinase (CoaE) performs the final step
+                     in coenzyme A biosynthesis; Derived by automated
+                     computational analysis using gene prediction method:
+                     Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="dephospho-CoA kinase"
+                     /protein_id="WP_013438411.1"
+                     /translation="MTYVLALTGGIATGKSTADQFFKKQNIPIVDCDEIAHDLMKPKN
+                     ASWQAIKDNFGEEYLNDDQTINRKKLGQLVFSNKSALNRLNQLTHPLIFDKTIQKITS
+                     YQNEDMVILDAPVYFESGLDKKHIANSVLVITLPESIQIERLKQRNNLTDKEARMRIN
+                     SQMPLSKKTQLADFVIENTGTIKELESKLEQLLNKIKKEG"
+     gene            complement(28935..29765)
+                     /gene="mutM"
+                     /locus_tag="C1A34_RS07435"
+                     /old_locus_tag="C1A34_07445"
+     CDS             complement(28935..29765)
+                     /gene="mutM"
+                     /locus_tag="C1A34_RS07435"
+                     /old_locus_tag="C1A34_07445"
+                     /EC_number="3.2.2.23"
+                     /EC_number="4.2.99.18"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_003548349.1"
+                     /GO_function="GO:0003684 - damaged DNA binding [Evidence
+                     IEA]; GO:0019104 - DNA N-glycosylase activity [Evidence
+                     IEA]; GO:0003906 - DNA-(apurinic or apyrimidinic site)
+                     endonuclease activity [Evidence IEA]; GO:0016799 -
+                     hydrolase activity, hydrolyzing N-glycosyl compounds
+                     [Evidence IEA]; GO:0003676 - nucleic acid binding
+                     [Evidence IEA]; GO:0008534 - oxidized purine nucleobase
+                     lesion DNA N-glycosylase activity [Evidence IEA]"
+                     /GO_process="GO:0006284 - base-excision repair [Evidence
+                     IEA]; GO:0006281 - DNA repair [Evidence IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="bifunctional DNA-formamidopyrimidine
+                     glycosylase/DNA-(apurinic or apyrimidinic site) lyase"
+                     /protein_id="WP_130898820.1"
+                     /translation="MPEMPEVETVRRTLTPLIKGKTIEKVILWYPKIVATDHDKFVNE
+                     LPGKKIIRIDRYAKYLLIRLSDNLTIVSHLRMEGKYHLTTPEAPKDKHDHVEFIFTDG
+                     TALRYNDVRKFGRMQLILTGTERQVTGIGKLGPEPNTPEFSEQYFLSSLKRKKKNIKN
+                     VLLDQTVVAGLGNIYVDETLWQSKIHPLSLANKIPADKVEDLRKNINETIKIATEKRG
+                     TTVHSYLDANGEVGGYQKMLQVYGHAGEACPRCGTTFEKIKVSGRGTTFCPHCQVIYK
+                     "
+     gene            complement(29774..32437)
+                     /gene="polA"
+                     /locus_tag="C1A34_RS07440"
+                     /old_locus_tag="C1A34_07450"
+     CDS             complement(29774..32437)
+                     /gene="polA"
+                     /locus_tag="C1A34_RS07440"
+                     /old_locus_tag="C1A34_07450"
+                     /EC_number="2.7.7.7"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_005721159.1"
+                     /GO_function="GO:0008408 - 3'-5' exonuclease activity
+                     [Evidence IEA]; GO:0003677 - DNA binding [Evidence IEA];
+                     GO:0003887 - DNA-directed DNA polymerase activity
+                     [Evidence IEA]; GO:0003676 - nucleic acid binding
+                     [Evidence IEA]"
+                     /GO_process="GO:0006261 - DNA-dependent DNA replication
+                     [Evidence IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="DNA polymerase I"
+                     /protein_id="WP_130898821.1"
+                     /translation="MADKKLLLIDGNSVAFRAFYALYRQLESFKSPDGLHTNAIYAFK
+                     NMLDVLLKDVDPTHVLVAFDAGKVTFRTKMYDEYKGGRAKTPEELLEQMPYIQEMLHD
+                     LGIKTYELKNYEADDIIGTFAAKGEKAGFTTTIVTGDRDLTQLASDKTTVEVTKSGVS
+                     QLEAYTPEHMKEVNGVTPTEFIDMKALMGDSSDNYPGVTKVGPKTASRLIQKYGSVEG
+                     IYDHIDEMKKSKLKENLINDKDKAFLAKKLATIDRDSPVTLDIDDIKRQPVDYEKLRQ
+                     FYEKMNFRKFLADLNASGAGQDSTEVEKVEYIVLNDDNVKDVKATEKDTVEFYLEMLG
+                     ANYHLADFVGFSLKINDKIYVSRDVELLEEDNIKHILEDEKIKKNVFDLKRTMVAAHR
+                     LGIHTYGLDYDMLLASYLINNENNSNDLGEIAHLYGDYSVKTDLEVYGKGKSEHVPDD
+                     DDELFNHLASKVNAIESLKKTLLEKLKDHEQDALFDTIEIPTARVLARMEMNGMKVEA
+                     STLIQLQNEFAVKLKELEDKIYGQAGEKFNLNSPKQLGHILFEKLGLPVIKKTKTGYS
+                     TSVEVLDQLKTQSPIVSEILDYRQIAKIQSTYVKGLLDVIQPDGRVHTRYLQTLTATG
+                     RLSSVDPNLQNIPTRTEEGKQIRKAFVPSEPDGYIFSCDYSQVELRVLAHVSGDQNMQ
+                     EAFKTGYDIHSHTAMKIFHLGSPDQVTPLMRRHAKAVNFGIVYGISDYGLSKNLGISR
+                     KRAQEFIDNYFEQYPQIKDYMDKAVQEARDKGYAETIMHRRRYLPDIHAKKYTVRAFA
+                     ERTAINSPIQGSAADIIKIAMINMQKKLDELHLKTKMVVQVHDELIFDVPKDELETIK
+                     KIVPEVMQSAVKLDVPLIADSGWGHNWYDAK"
+     repeat_region   32592..34666
+                     /inference="COORDINATES: alignment:crt:1.2"
+                     /inference="COORDINATES: alignment:pilercr:v1.02"
+                     /rpt_family="CRISPR"
+                     /rpt_type=direct
+                     /rpt_unit_range=32658..32687
+                     /rpt_unit_seq="atttacatttctcttaagttaaataaaaac"
+     gene            complement(34851..35132)
+                     /gene="cas2"
+                     /locus_tag="C1A34_RS07445"
+                     /old_locus_tag="C1A34_07455"
+     CDS             complement(34851..35132)
+                     /gene="cas2"
+                     /locus_tag="C1A34_RS07445"
+                     /old_locus_tag="C1A34_07455"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_016175470.1"
+                     /GO_function="GO:0004521 - endoribonuclease activity
+                     [Evidence IEA]"
+                     /GO_process="GO:0043571 - maintenance of CRISPR repeat
+                     elements [Evidence IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="CRISPR-associated endonuclease Cas2"
+                     /protein_id="WP_023192833.1"
+                     /translation="MYVILVYDIVMDKQGAKVSRHVFKICKKYLTHVQNSVFEGELTK
+                     SQLESLKNELDRWIRQNVDSVIIFKNRNKDWLDKEFMGQDLTDLTSDIF"
+     gene            complement(35138..36127)
+                     /gene="cas1b"
+                     /locus_tag="C1A34_RS07450"
+                     /old_locus_tag="C1A34_07460"
+     CDS             complement(35138..36127)
+                     /gene="cas1b"
+                     /locus_tag="C1A34_RS07450"
+                     /old_locus_tag="C1A34_07460"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_010747301.1"
+                     /GO_function="GO:0004520 - endodeoxyribonuclease activity
+                     [Evidence IEA]"
+                     /GO_process="GO:0043571 - maintenance of CRISPR repeat
+                     elements [Evidence IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="type I-B CRISPR-associated endonuclease Cas1b"
+                     /protein_id="WP_130898822.1"
+                     /translation="MEDYYLFSSGELERKDNTVRLTRSDGKYKDLKIEVTRDIYLFGE
+                     VSTNTKCLNYLAQMKIPVHFFNYYGFYTGSFYPKEQNVSGTLLIQQVQAYTDPKRRLY
+                     YAKKFVLGAAKNLLRNLKYYQRRGRNLDDSIKEITSLIRQIDQVHDVEELMGIEGTIH
+                     RRYYASWQSVFIPDVDFSKRVRRPPDNMVNTLISFLNGLMYTTCLSEIYVTQLNPTIS
+                     YLHSPMDRRFSLCLDISEIFKPMIVDRLIFSLINKNMISEEDFNKESNYWYLSEKSKR
+                     VIVSEYDKYMKQKVRYKTLHRDVSYRHLIRLECYKLVRSLVEGETYEPYVMGW"
+     gene            complement(36137..36628)
+                     /gene="cas4"
+                     /locus_tag="C1A34_RS07455"
+                     /old_locus_tag="C1A34_07465"
+     CDS             complement(36137..36628)
+                     /gene="cas4"
+                     /locus_tag="C1A34_RS07455"
+                     /old_locus_tag="C1A34_07465"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_014073497.1"
+                     /GO_function="GO:0004518 - nuclease activity [Evidence
+                     IEA]"
+                     /GO_process="GO:0043571 - maintenance of CRISPR repeat
+                     elements [Evidence IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="CRISPR-associated protein Cas4"
+                     /protein_id="WP_025283809.1"
+                     /translation="MRVTGNMVNYFFVCKRKLWLFQHQIGFEQTSERVQLGSLLDRTS
+                     YQGHGTHHVMIDNLINIDMVENWQLIHEVKRSDAIEPAAIWQLKYYIYYLRKKGVNIS
+                     KGLLDYPRLKKCVKVDYTDEDEKQMEKYISEIEQICEQVTPPKPQFKPICKSCAFYEY
+                     CFS"
+     gene            complement(36644..>37408)
+                     /locus_tag="C1A34_RS08575"
+                     /old_locus_tag="C1A34_07470"
+                     /pseudo
+     CDS             complement(36644..>37408)
+                     /locus_tag="C1A34_RS08575"
+                     /old_locus_tag="C1A34_07470"
+                     /inference="COORDINATES: ab initio
+                     prediction:GeneMarkS-2+"
+                     /note="incomplete; too short partial abutting assembly
+                     gap; missing N-terminus; Derived by automated
+                     computational analysis using gene prediction method:
+                     GeneMarkS-2+."
+                     /pseudo
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+CONTIG      join(PNRB01000016.1:1..37408)
+//
+

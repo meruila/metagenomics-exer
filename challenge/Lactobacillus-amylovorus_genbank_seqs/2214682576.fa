@@ -1,0 +1,86 @@
+LOCUS       JALFUG010000000          147 rc    DNA     linear   ENV 01-APR-2022
+DEFINITION  MAG: Lactobacillus amylovorus isolate SUG1017, whole genome shotgun
+            sequencing project.
+ACCESSION   JALFUG000000000
+VERSION     JALFUG000000000.1
+DBLINK      BioProject: PRJNA629856
+            BioSample: SAMN26927343
+KEYWORDS    WGS; Metagenome Assembled Genome; MAG.
+SOURCE      Lactobacillus amylovorus (pig gut metagenome)
+  ORGANISM  Lactobacillus amylovorus
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+REFERENCE   1  (bases 1 to 147)
+  AUTHORS   Holman,D.B. and Kommadath,A.
+  TITLE     Metagenome-assembled genomes from swine fecal metagenomes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 147)
+  AUTHORS   Holman,D.B. and Kommadath,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-MAR-2022) Lacombe Research and Development Centre,
+            Agriculture and Agri-Food Canada, 6000 C & E Trail, Lacombe, AB T4L
+            1W1, Canada
+COMMENT     The Lactobacillus amylovorus whole genome shotgun (WGS) project has
+            the project accession JALFUG000000000.  This version of the project
+            (01) has the accession number JALFUG010000000, and consists of
+            sequences JALFUG010000001-JALFUG010000147.
+            The annotation was added by the NCBI Prokaryotic Genome Annotation
+            Pipeline (PGAP). Information about PGAP can be found here:
+            https://www.ncbi.nlm.nih.gov/genome/annotation_prok/
+            
+            ##Genome-Assembly-Data-START##
+            Assembly Date          :: 01-JUN-2021
+            Assembly Method        :: MEGAHIT v. v. 1.29.0
+            Genome Representation  :: Full
+            Expected Final Version :: Yes
+            Genome Coverage        :: 190.63608x
+            Sequencing Technology  :: Illumina NovaSeq
+            ##Genome-Assembly-Data-END##
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider               :: NCBI
+            Annotation Date                   :: 03/26/2022 09:16:32
+            Annotation Pipeline               :: NCBI Prokaryotic Genome
+                                                 Annotation Pipeline (PGAP)
+            Annotation Method                 :: Best-placed reference protein
+                                                 set; GeneMarkS-2+
+            Annotation Software revision      :: 6.1
+            Features Annotated                :: Gene; CDS; rRNA; tRNA; ncRNA;
+                                                 repeat_region
+            Genes (total)                     :: 1,945
+            CDSs (total)                      :: 1,900
+            Genes (coding)                    :: 1,810
+            CDSs (with protein)               :: 1,810
+            Genes (RNA)                       :: 45
+            rRNAs                             :: 3, 1 (5S, 23S)
+            complete rRNAs                    :: 1 (5S)
+            partial rRNAs                     :: 2, 1 (5S, 23S)
+            tRNAs                             :: 38
+            ncRNAs                            :: 3
+            Pseudo Genes (total)              :: 90
+            CDSs (without protein)            :: 90
+            Pseudo Genes (ambiguous residues) :: 0 of 90
+            Pseudo Genes (frameshifted)       :: 47 of 90
+            Pseudo Genes (incomplete)         :: 36 of 90
+            Pseudo Genes (internal stop)      :: 28 of 90
+            Pseudo Genes (multiple problems)  :: 20 of 90
+            CRISPR Arrays                     :: 4
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..147
+                     /organism="Lactobacillus amylovorus"
+                     /mol_type="genomic DNA"
+                     /isolate="SUG1017"
+                     /isolation_source="feces"
+                     /host="Sus scrofa domesticus"
+                     /db_xref="taxon:1604"
+                     /environmental_sample
+                     /country="Canada: Lacombe"
+                     /lat_lon="52.4685 N 113.7307 W"
+                     /altitude="850 m"
+                     /collection_date="2019"
+                     /metagenome_source="pig gut metagenome"
+                     /note="metagenomic"
+WGS         JALFUG010000001-JALFUG010000147
+//
+

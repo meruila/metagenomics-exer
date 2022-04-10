@@ -1,0 +1,55 @@
+LOCUS       LBARR16SD               1512 bp    rRNA    linear   BCT 27-APR-1993
+DEFINITION  Lactobacillus amylovorus 16S ribosomal RNA.
+ACCESSION   M58805
+VERSION     M58805.1
+KEYWORDS    16S ribosomal RNA.
+SOURCE      Lactobacillus amylovorus
+  ORGANISM  Lactobacillus amylovorus
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+REFERENCE   1  (bases 1 to 1512)
+  AUTHORS   Woese,C.R., Yang,D. and Kandler,O.
+  TITLE     Phylogenetic analysis of the lactobacilli based upon 16S rRNA
+  JOURNAL   Unpublished
+COMMENT     Original source text: Lactobacillus amylovorus (library: DSM 20531)
+            rRNA.
+FEATURES             Location/Qualifiers
+     source          1..1512
+                     /organism="Lactobacillus amylovorus"
+                     /mol_type="rRNA"
+                     /db_xref="taxon:1604"
+                     /tissue_lib="DSM 20531"
+     gene            1..1512
+                     /gene="16S rRNA"
+     rRNA            1..1512
+                     /gene="16S rRNA"
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 nnntanaatg agagtttgat cctggctcag gacgaacgct ggcggcgtgc ctaatacatg
+       61 caagtcgagc gagcggaacc aacagattta cttcggtaat gacgttgnaa acnagcggcg
+      121 gatgggtgag taacacgtgg ggaacctgcc ccnaagtctg ggataccatt tggaaacagg
+      181 tgctaatacc ggataataaa gcagatcgca tgatcagctt ttgaaaggcg gcgtaagctg
+      241 tcgctnaggg atggcccngc ggtgcattag ctagttggta aggtaacggc ttaccaaggc
+      301 gacgatgcat agccgagttg agagactgat cggccacatt gggactgaga cacggcccna
+      361 actcctacgg gaggcagcag tagggaatct tccacaatgg acgcaagtct gatggagcaa
+      421 cgccgcntga gtgaagaagg ttttcggatc gtaaagctct gttgttggtg aagaaggata
+      481 gaggtagtaa ctggccttta tttgacggta atcaaccaga aagtctcggc taactacgtg
+      541 ccagcagccg cggtaatacg taggtggcna gcgttgtccg gatttattgg gcgtaaagcg
+      601 agcgcaggcg gaaaaataag tctnatgtga aagccctcgg cttnaccgag nnactgcatc
+      661 ggaaactgtt tttcttgagt gcagaagagg agagtggaac tccatgtgta gcggtggaat
+      721 gcgtagatat atggaagaac accagtggcg aaggcggcnc tctggtctgc aactgacgct
+      781 gaggctcgna agcatgggta gcgaacagga ttagataccc tggtagtcca tgccgtaaac
+      841 gatgagtgct aagtgttggg aggtttccgc ctctcagtgc tgcagctaac gcattaagct
+      901 ctccgcctgg ggagtacgac cgcaaggttg aaactcaaag gaattgacgg gggccngcac
+      961 aagcggtgga gcatgtggtt taattcgaan nnacgcgaag aaccttacca ggncttgaca
+     1021 tctagtgcna tctgtagaga tatggagttc ccttcggggn cgctaagaca ggtggngcat
+     1081 ggctgtcgtc agctcgtgtc gtgagatgtt gggttaagtc ccgcaacgag cgcaaccctt
+     1141 gttattagtt gccagcatta agttgggcac tctaatgaga ctgccggtga caaaccggag
+     1201 gaaggtgggg atgacgtcaa gtcatcatgc cccttatgac ctgggctaca cacgtgctac
+     1261 aatgggcagt acaacgagaa gcaagcctgc gaaggcnagc gaatctctga aagctgttct
+     1321 cagttcggac tgcagtctgc aactcgactg cacgaagctg gaatcgctag taatcgcgga
+     1381 tcagcacgcc gcggtgaata cgttcccggg cnttgtacac accgcccgtc acaccatggg
+     1441 agtctgcaat gcccaaagcc ggtggcctna cnntcgggaa ggagccgtct aaggcagggc
+     1501 agatgacngg gg
+//
+

@@ -1,0 +1,50 @@
+LOCUS       AJ301625                 213 bp    DNA     linear   BCT 15-DEC-2002
+DEFINITION  Lactobacillus amylovorus amyL gene for lactobin A, strain LMG
+            P-13139.
+ACCESSION   AJ301625
+VERSION     AJ301625.1
+KEYWORDS    amyL gene; lactobin A.
+SOURCE      Lactobacillus amylovorus
+  ORGANISM  Lactobacillus amylovorus
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+REFERENCE   1
+  AUTHORS   De Vuyst,L., Avonts,L., Hoste,B., Vancanneyt,M. and Callewaert,R.
+  TITLE     The structural genes of the bacteriocins lactobin A and amylovorin
+            L471, produced by Lactobacillus amylovorus LMG P-13139 and Lb.
+            amylovorus DCE 471, respectively, are identical, and seem to occur
+            only in some strains of the Lactobacillus group, including the
+            probiotic Lactobacillus johnsonii LA1 strain
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 213)
+  AUTHORS   De Vuyst,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-NOV-2000) De Vuyst L., Imdo, Vrije Universiteit
+            Brussel, Pleinlaan 2, 1050 Brussels, BELGIUM
+FEATURES             Location/Qualifiers
+     source          1..213
+                     /organism="Lactobacillus amylovorus"
+                     /mol_type="genomic DNA"
+                     /strain="LMG P-13139"
+                     /db_xref="taxon:1604"
+     gene            16..213
+                     /gene="amyL"
+     CDS             16..213
+                     /gene="amyL"
+                     /function="bacteriocin"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="lactobin A"
+                     /protein_id="CAC82814.1"
+                     /db_xref="GOA:P80696"
+                     /db_xref="InterPro:IPR010133"
+                     /db_xref="UniProtKB/Swiss-Prot:P80696"
+                     /translation="MKQLNSEQLQNIIGGNRWTNAYSAALGCAVPGVKYGKKLGGVWG
+                     AVIGGVGGAAVCGLAGYVRKG"
+ORIGIN      
+        1 aagtagggat ttaagatgaa acaattgaat tcagaacaat tacaaaatat tatcggtgga
+       61 aatagatgga ctaatgcata cagcgcagct ttgggatgcg ctgtccctgg agttaaatat
+      121 ggaaaaaaac ttggtggcgt atggggtgct gtaattggtg gcgtaggcgg tgcagcagtc
+      181 tgtggcttgg cgggttatgt tcgtaaaggc taa
+//
+

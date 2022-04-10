@@ -1,0 +1,110 @@
+LOCUS       LAU62096                3084 bp    DNA     linear   BCT 30-OCT-1997
+DEFINITION  Lactobacillus amylovorus alpha-amylase gene, complete cds.
+ACCESSION   U62096
+VERSION     U62096.1
+KEYWORDS    .
+SOURCE      Lactobacillus amylovorus
+  ORGANISM  Lactobacillus amylovorus
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+REFERENCE   1  (bases 1 to 3084)
+  AUTHORS   Giraud,E. and Cuny,G.
+  TITLE     Molecular characterization of the alpha-amylase genes of
+            Lactobacillus plantarum A6 and Lactobacillus amylovorus reveals an
+            unusual 3' end structure with direct tandem repeats and suggests a
+            common evolutionary origin
+  JOURNAL   Gene 198 (1-2), 149-157 (1997)
+   PUBMED   9370276
+REFERENCE   2  (bases 1 to 3084)
+  AUTHORS   Giraud,E. and Cuny,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-JUN-1996) Biotechnology, ORSTOM, 911, Av. Agropolis,
+            CEDEX 1, Montpellier 34032, France
+FEATURES             Location/Qualifiers
+     source          1..3084
+                     /organism="Lactobacillus amylovorus"
+                     /mol_type="genomic DNA"
+                     /strain="CIP 102989"
+                     /type_material="type strain of Lactobacillus amylovorus"
+                     /db_xref="taxon:1604"
+     CDS             203..3064
+                     /codon_start=1
+                     /transl_table=11
+                     /product="alpha-amylase"
+                     /protein_id="AAC45781.1"
+                     /translation="MKKKKSFWLVSFLVIVASVFFISFGFSNHSKQVAQAASDTTSTD
+                     HSSNDTADSVSDGVILHAWCWSFNTIKNNLKQIHDAGYTAVQTSPVNEVKVGNSGSKS
+                     LNNWYWLYQPTKYSIGNYYLGTEAEFKSMCAAAKEYNIRIIVDATLNDTTSDYSAISD
+                     EIKSISDWTHGNTQISNWSDREDVTQNSLLGFYDWNTQNSQVQTYLKNHLERLISDGA
+                     SGFRYDAATHIELPSQYDGSYGSNFWPNITDNGSEFQYGEVLQDSISKESDYANYMSV
+                     TASNYGNTIRNALKNRDFTASTLQNFNISVPASKLVTWVESHDNYANDDQVSTWMNSS
+                     DIKLGWAVVASRSGSVPLFFDRPVDGGNGTRFPGSSEIGDAGSSLYYDKAVVAVNKFH
+                     NAMAGQSEYISNPNGNTKIFENERGSKGVVFANASDSSYSLNVKTSLADGTYENKAGS
+                     DEFTVKNGYLTGTIQGREVVVLYGDPTSSSSTTTETKKVYFEKPSSWGSRVYAYVYNK
+                     NTNKAITSAWPGKKMTALGNDKYELDLDTDEDDSDLAVIFTDGTKQTPAANEAGFTFT
+                     ADATYDQNGVVKKVYFEKPSSWGSRVYAYVYNKNTNKAITSAWPGKKMTALGNDKYEL
+                     DLDTDEDDSDLAVIFTDGTKQTPAANEAGFTFTADATYDQNGVVKKVYFEKPSSWGSR
+                     VYAYVYNKNTNKAITSAWPGKKMTALGNDKYELDLDTDEDDSDLAVIFTDGTKQTPAA
+                     NEAGFTFTADATYDQNGVVKKVYFEKPSSWGSRVYAYVYNKNTNKAITSAWPGKKMTA
+                     LGNDKYELDLDTDEDDSDLAVIFTDGTKQTPAANEAGFTFTADATYDQNGVVKKVYFE
+                     KPSSWGSRVYAYVYNKNTNKAITSAWPGKKMTALGNDKYELDLDTDEDDSDLAVIFTD
+                     GTKQTPAANEAGFTFTADATYDQNGVVRTSDSSSTSSNS"
+     repeat_region   1662..3027
+                     /note="five tandem repeat units of 273 nucleotides"
+                     /rpt_type=tandem
+                     /rpt_unit_range=1662..1935
+ORIGIN      
+        1 ataaccacac gcctttggcg tgattatcag ctttcaagtt tcagttacta aaactaatac
+       61 tgactataaa acagaagcaa aaaaattttc gatttttatg aaaacggtcg caaagaagtt
+      121 agcaaaaata tataatttct tttgaaattg ttcacttggc caagctgcag tttcaatatt
+      181 ttaataaagg gggcagtaaa aagtgaaaaa aaagaaaagt ttctggcttg tttctttttt
+      241 agttatagta gctagtgttt tctttatatc ttttggattt agcaatcatt ctaaacaagt
+      301 tgctcaagcg gctagtgata cgacatcaac tgatcactca agcaatgata cagctgattc
+      361 tgttagcgac ggtgttattt tgcatgcatg gtgctggtcg ttcaacacga ttaaaaacaa
+      421 cttgaaacag attcatgacg ccggctacac agcggttcaa acttcacctg ttaatgaagt
+      481 taaagttgga aatagcgggt ctaagtcatt aaataactgg tattggctat atcagccaac
+      541 taaatatagt attggtaact attatttagg aacggaagct gaatttaagt caatgtgcgc
+      601 tgctgctaaa gaatataata tcaggatcat tgtcgatgca actctgaatg atacaacaag
+      661 tgattatagt gcaatttcgg atgaaattaa aagtatttca gattggacac atggtaacac
+      721 acaaatttcg aattggagtg atcgtgaaga tgttactcaa aattcgttgt taggtttcta
+      781 tgattggaat actcaaaatt ctcaagttca gacgtatttg aagaatcatt tggaacgctt
+      841 gatttctgac ggagcttcag gcttccgtta tgatgcagct acgcatattg aacttccaag
+      901 tcaatatgat ggcagctatg gcagcaattt ctggccaaat attactgata atgggtctga
+      961 atttcagtat ggtgaagttt tgcaggactc gatttcaaaa gaatcagatt atgctaatta
+     1021 catgagtgtt acagcttcaa attacggcaa tacgattcgc aatgcgttaa agaatcgtga
+     1081 ttttaccgca agtactttgc agaatttcaa catcagtgtt ccagcttcta aattagtaac
+     1141 ttgggtcgaa tcgcatgata attatgctaa cgatgatcaa gtttcgactt ggatgaatag
+     1201 tagtgatatt aaattaggct gggctgttgt tgcttcgcgt tctggtagtg ttccgctgtt
+     1261 ctttgaccgt ccagttgatg gtggtaatgg tactcggttc cctggcagtt cagaaattgg
+     1321 tgatgctggc agcagtttgt attatgataa agcagttgta gctgttaata aattccataa
+     1381 tgcaatggct ggtcaatctg aatatatttc taatccaaat ggcaatacca agatttttga
+     1441 aaatgaacgt ggcagcaaag gggttgtttt tgcaaacgct tccgacagtt catatagttt
+     1501 gaatgttaaa actagtttag ctgatgggac ttatgaaaac aaggctggtt cagatgaatt
+     1561 taccgttaaa aatggttatt taaccggtac aattcaagga cgtgaagttg ttgttcttta
+     1621 cggggatcca acaagcagca gcagtacaac aacagaaact aaaaaggttt attttgaaaa
+     1681 gccttcaagt tggggtagta gagtttatgc ctatgtttat aataaaaata cgaataaagc
+     1741 tataacttca gcttggcctg gcaaaaaaat gaccgcttta ggtaacgaca aatatgaatt
+     1801 ggatctcgac actgatgaag atgactctga tttagctgtt atctttaccg atgggacaaa
+     1861 gcaaacacca gcagctaatg aggctggttt tacctttacg gctgatgcca cttatgatca
+     1921 aaatggtgtc gtaaaaaagg tttattttga aaagccttca agttggggta gtagagttta
+     1981 tgcctatgtt tataataaaa atacgaataa agctataact tcagcttggc ctggcaaaaa
+     2041 aatgaccgct ttaggtaacg acaaatatga attggatctc gacactgatg aagatgactc
+     2101 tgatttagct gttatcttta ccgatgggac aaagcaaaca ccagcagcta atgaggctgg
+     2161 ttttaccttt acggctgatg ccacttatga tcaaaatggt gtcgtaaaaa aggtttattt
+     2221 tgaaaagcct tcaagttggg gtagtagagt ttatgcctat gtttataata aaaatacgaa
+     2281 taaagctata acttcagctt ggcctggcaa aaaaatgacc gctttaggta acgacaaata
+     2341 tgaattggat ctcgacactg atgaagatga ctctgattta gctgttatct ttaccgatgg
+     2401 gacaaagcaa acaccagcag ctaatgaggc tggttttacc tttacggctg atgccactta
+     2461 tgatcaaaat ggtgtcgtaa aaaaggttta ttttgaaaag ccttcaagtt ggggtagtag
+     2521 agtttatgcc tatgtttata ataaaaatac gaataaagct ataacttcag cttggcctgg
+     2581 caaaaaaatg accgctttag gtaacgacaa atatgaattg gatctcgaca ctgatgaaga
+     2641 tgactctgat ttagctgtta tctttaccga tgggacaaag caaacaccag cagctaatga
+     2701 ggctggtttt acctttacgg ctgatgccac ttatgatcaa aatggtgtcg taaaaaaggt
+     2761 ttattttgaa aagccttcaa gttggggtag tagagtttat gcctatgttt ataataaaaa
+     2821 tacgaataaa gctataactt cagcttggcc tggcaaaaaa atgaccgctt taggtaacga
+     2881 caaatatgaa ttggatctcg acactgatga agatgactct gatttagctg ttatctttac
+     2941 cgatgggaca aagcaaacac cagcagctaa tgaggctggt tttaccttta cggctgatgc
+     3001 cacttatgat caaaatggtg tcgtaagaac ttctgattca agcagcacat caagcaattc
+     3061 gtaagccgat accagcagtt catc
+//
+

@@ -1,0 +1,274 @@
+LOCUS       PNRB01000027            5524 bp    DNA     linear   BCT 27-FEB-2019
+DEFINITION  Lactobacillus amylovorus strain PMRA1 PMRA1_0027, whole genome
+            shotgun sequence.
+ACCESSION   PNRB01000027 PNRB01000000
+VERSION     PNRB01000027.1
+DBLINK      BioProject: PRJNA428540
+            BioSample: SAMN08294903
+KEYWORDS    WGS.
+SOURCE      Lactobacillus amylovorus
+  ORGANISM  Lactobacillus amylovorus
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+REFERENCE   1  (bases 1 to 5524)
+  AUTHORS   Nam,Y.-D., Kang,J. and Chung,W.-H.
+  TITLE     draft genome sequencing of Lactobacillus amylovorus PMRA1
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 5524)
+  AUTHORS   Nam,Y.-D., Kang,J. and Chung,W.-H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JAN-2018) Research Group of Gut Microbiome, Korea
+            Food Research Institute, 245, Nongsaengmyeong-ro, Iseo-myeon,
+            Wanju_Gun, Jeollabuk-do 565-851, Korea, Republic of
+COMMENT     Bacteria and source DNA available from Research Group of Gut
+            Microbiome, Korea Food Research Institute, 245, Nongsaengmyeong-ro,
+            Iseo-myeon, Wanju_Gun, Jeollabuk-do, 565-851, Republic of Korea.
+            Annotation was added by the NCBI Prokaryotic Genome Annotation
+            Pipeline (released 2013). Information about the Pipeline can be
+            found here: https://www.ncbi.nlm.nih.gov/genome/annotation_prok/
+            
+            ##Genome-Assembly-Data-START##
+            Assembly Method        :: HGAP v. 4.0
+            Genome Representation  :: Full
+            Expected Final Version :: Yes
+            Genome Coverage        :: 581.0x
+            Sequencing Technology  :: PacBio
+            ##Genome-Assembly-Data-END##
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider               :: NCBI
+            Annotation Date                   :: 01/25/2018 18:54:20
+            Annotation Pipeline               :: NCBI Prokaryotic Genome
+                                                 Annotation Pipeline
+            Annotation Method                 :: Best-placed reference protein
+                                                 set; GeneMarkS+
+            Annotation Software revision      :: 4.3
+            Features Annotated                :: Gene; CDS; rRNA; tRNA; ncRNA;
+                                                 repeat_region
+            Genes (total)                     :: 1,698
+            CDS (total)                       :: 1,659
+            Genes (coding)                    :: 1,528
+            CDS (coding)                      :: 1,528
+            Genes (RNA)                       :: 39
+            rRNAs                             :: 2, 2, 2 (5S, 16S, 23S)
+            complete rRNAs                    :: 2, 2, 2 (5S, 16S, 23S)
+            tRNAs                             :: 30
+            ncRNAs                            :: 3
+            Pseudo Genes (total)              :: 131
+            Pseudo Genes (ambiguous residues) :: 0 of 131
+            Pseudo Genes (frameshifted)       :: 77 of 131
+            Pseudo Genes (incomplete)         :: 55 of 131
+            Pseudo Genes (internal stop)      :: 33 of 131
+            Pseudo Genes (multiple problems)  :: 31 of 131
+            CRISPR Arrays                     :: 1
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..5524
+                     /organism="Lactobacillus amylovorus"
+                     /mol_type="genomic DNA"
+                     /submitter_seqid="PMRA1_0027"
+                     /strain="PMRA1"
+                     /isolation_source="feces"
+                     /host="pig"
+                     /db_xref="taxon:1604"
+                     /country="South Korea: Seoul"
+                     /collection_date="2016-10-04"
+     gene            complement(<1..712)
+                     /locus_tag="C1A34_08325"
+     CDS             complement(<1..712)
+                     /locus_tag="C1A34_08325"
+                     /EC_number="2.4.2.14"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:YP_194403.1"
+                     /note="Catalyzes first step of the de novo purine
+                     nucleotide biosynthetic pathway; Derived by automated
+                     computational analysis using gene prediction method:
+                     Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="amidophosphoribosyltransferase"
+                     /protein_id="TBH76654.1"
+                     /translation="MEGVHPLFNEIKSLNEECGVFGVFGAPDASQLTYLGLHNLQHRG
+                     QEGAGIVSSDGEHLYQHRDRGLLSDAFADPNDLKKLVGDSAIGHVRYSTTGRNSIQNV
+                     QPFLFHFLDGDVALAHNGNLVNAVSLRNKLEKQGAIFQSSSDTEILIHLIRNHIKDGF
+                     ISALKQSLNEVHGGFAFLLLQKDRMIAALDPNGIRPLCIGKLDNGAYVVSSETCSLDI
+                     IGAKFVRDVQPGELIIIDR"
+     gene            complement(670..1714)
+                     /locus_tag="C1A34_08330"
+                     /pseudo
+     CDS             complement(670..1714)
+                     /locus_tag="C1A34_08330"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:YP_194404.1"
+                     /note="frameshifted; internal stop; incomplete; partial in
+                     the middle of a contig; missing start; Derived by
+                     automated computational analysis using gene prediction
+                     method: Protein Homology."
+                     /pseudo
+                     /codon_start=1
+                     /transl_table=11
+                     /product="phosphoribosylformylglycinamidine synthase II"
+     gene            1726..2829
+                     /locus_tag="C1A34_08335"
+                     /pseudo
+     CDS             1726..2829
+                     /locus_tag="C1A34_08335"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:YP_194404.1"
+                     /note="incomplete; partial in the middle of a contig;
+                     missing start; Derived by automated computational analysis
+                     using gene prediction method: Protein Homology."
+                     /pseudo
+                     /codon_start=1
+                     /transl_table=11
+                     /product="phosphoribosylformylglycinamidine synthase II"
+     gene            2787..4256
+                     /locus_tag="C1A34_08340"
+     CDS             2787..4256
+                     /locus_tag="C1A34_08340"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_014563201.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="amidophosphoribosyltransferase"
+                     /protein_id="TBH76651.1"
+                     /translation="MEGVHPLFNEIKSLNEECGVFGVFGAPDASQLTYLGLHNLQHRG
+                     QEGAGIVSSDGEHLYQHRDRGLLSDAFADPNDLKKLVGDSAIGHVRYSTTGRNSIQNV
+                     QPFLFHFLDGDVALAHNGNLVNAVSLRNKLEKQGAIFQSSSDTEILIHLIRNHIKDGF
+                     ISALKQSLNEVHGGFAFLLLQKDRMIAALDPNGIRPLCIGKLDNGAYVVSSETCSLDI
+                     IGAKFVRDVQPGELIIIDRDGMKIDHFTKNTHLAICSMEYIYFARPDSIIHGVTVHNA
+                     RKRMGRLLAREAPADVDMVVGVPNSSLSAASGYAEELGLPYEMGLVKNQYVARTFIQP
+                     TQALREKSVKLKLSAVRGVVAGKKIAVIDDSIVRGTTSKQIVKMLKEAGAKEVHLRIA
+                     SPPFRFPCFYGIDISTRAELMAAHYSVEEMRKIIGADSLGFLSVDSLIKAIDVPDRGD
+                     SSGLTVAYFNGKYPTKLDDYEAGYLASLNAQERRQRKDL"
+     gene            4258..5295
+                     /locus_tag="C1A34_08345"
+     CDS             4258..5295
+                     /locus_tag="C1A34_08345"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:YP_194402.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="phosphoribosylformylglycinamidine cyclo-ligase"
+                     /protein_id="TBH76652.1"
+                     /translation="MNRYKEAGVDVTAGYDLVNRIKPMVAATKRKGVMGGIGSFGGMF
+                     DLEELNYKHPVLVSGTDGVGTKLMIAQKMHKNDTVGIDCVAMCVNDVLAQGAEPLFFL
+                     DYIACGHNDPEKLADVVKGVAEGCKQSESALIGGETAEMPDMYEPHEYDLAGFSTGIA
+                     EKEDILSSSLAKAGDHLIALPSSGVHSNGFSLIRKILFKDHDVSLSDKPAELAGKTVG
+                     ETLLTPTRIYVKAVLPLVKKHLVHGIAHITGGGFIENLPRIYGNDLQAVVNKGSWPVL
+                     PIFDYLKKLGDLDERDCYNTFNMGVGLVLAVPVETIAAVKEQLNRENEKFYEIGQLVA
+                     RPEGEEKIVIK"
+     gene            5305..>5524
+                     /locus_tag="C1A34_08350"
+     CDS             5305..>5524
+                     /locus_tag="C1A34_08350"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:YP_194401.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="phosphoribosylglycinamide formyltransferase"
+                     /protein_id="TBH76653.1"
+                     /translation="MRVAILASGNGTNFEALTKQFQAGEIPGIEALMFCNHPNAPVIK
+                     RAERLGVPYETFSVKECGGKDAYEKRLLK"
+ORIGIN      
+        1 ctcgatcaat gatgattaat tcaccaggct gcacatcacg aacgaacttg gcaccgatga
+       61 tgtcaagtga acaagtttcg ctagaaacaa cgtaggcgcc attgtccaat ttaccaatac
+      121 ataagggacg aatcccatta ggatcaagtg ccgcaatcat gcgatctttt tgcaaaagca
+      181 ggaaggcaaa accaccgtga acttcattca ggctttgctt taaagctgaa ataaagccat
+      241 ctttgatatg attacgaatc aagtgaatca agatttcggt atcagatgag gattgaaaaa
+      301 tcgcgccttg tttttcgagc ttgtttcgta aagacacggc attaactaaa ttgccgttgt
+      361 gggctaaagc aacatcaccg tctagaaaat gaaagagaaa tggttgtacg ttttgaatcg
+      421 aattacgacc cgttgtactg tagcgaacgt gaccaatggc actgtcgccg accaattttt
+      481 ttaaatcatt cggatcagca aaagcatcgg ataaaaggcc acgatcgcgg tgttgataca
+      541 aatgctcacc atcgcttgag acgatgccgg ccccttcttg tccgcggtgc tgcaggttat
+      601 gcaaacccag atatgttaat tgactagcat caggagcgcc gaaaacaccg aagacgccac
+      661 attcctcatt taggcttttg atttcattaa acaagggatg cactccttcc aaatcttttg
+      721 caattcagct acatcttcat ttacttgatc gttggccagc gaaatgttca attgctgatc
+      781 agcagtaact tgaccaattt cactaacgga atcgcccatt tcttgttcaa attttgccgc
+      841 atttgcagga tcaactgaaa cgatcaagcg acctggagtc tcactgaaaa gcagattttt
+      901 atcaaaatca agctttacct ttgcaccaaa gtctgtatca aaaagtgttt cagctaagga
+      961 aacgcctaag ccgccttcgc ttagatcgtg ggcacttttg actaagccgt tagccattaa
+     1021 tgcttgcaat ttgtaaagat attgctttat ctctggcaag tttggcgcat gtggcaatcc
+     1081 gctaatttca ccagtgatca tcttttgcaa ttctgagccg gcaaaatcat cgtctgtttt
+     1141 accaacgaga taaatcttgt cgcctgcttt ttgcatgtgc attggaatga cgtgatcata
+     1201 atccttgatt aaaccaacca ttccaatcat tggtgatgga taaattgcct tgccattatt
+     1261 ttcgttataa agagagacat ttcctgaaac aaccggtgtt tctaagattt cacatgcatc
+     1321 ggcaatccct tgacaagatt gatgcaattc ccagaaaatt tctggatcat tagggtcacc
+     1381 atagttaaga cagtcagtaa ttgctaaagg ttgggcacca ctagccacga tatttgttgc
+     1441 actttcaagg acagttcttt gaccaccaac ttttggatca agatagacaa agcgtccatt
+     1501 agtatcagta gtcatgcaat tgccttctta gtatggcgca ctcgcaagac gcctatctga
+     1561 accagggcta catcgtgtcc gttcgaactg tgaatcatat tgttgcgtta caaattgatc
+     1621 gttagaatgg ttggctggtt caaaagatct tttaaagttt gacggcactt tcaatatttg
+     1681 gttgcaattt tcacttgtca gcatcaatga tttttgtggt aacttttaac tgaaaaagtc
+     1741 cttgaagaaa aaagcgcaga aaagaaacca caaagaatca ttgatgctga gcaaagtgaa
+     1801 aattggcaac caaatattga aagtgccggt caaactttaa aagatctttt gaaccagcca
+     1861 accattgcta acgatcaatt tgtaacgcaa caatatgatt cacaggttcg aacggacacg
+     1921 attgtaggcc ctggttcaga tagcggcgtc ttgcgagtgc gccatactaa gaaggcaatt
+     1981 gcgatgacta ctgatactaa tggacgcttt gtctatcttg atccaaaagt tggtggtcaa
+     2041 agaactgtcc ttgaaagtgc aacaaatatc gtggctagtg gtgcccaacc tttagcaatt
+     2101 actgactgtc ttaactatgg tgaccctaat gatccagaaa ttttctggga attgcatcaa
+     2161 tcttgtcaag ggattgccga tgcatgtgaa atcttagaaa caccggttgt ttcaggaaat
+     2221 gtctctcttt ataacgaaaa taatggcaag gcaatttatc catcaccaat gattggaatg
+     2281 gttggtttaa tcaaggatta tgatcacgtc attccaatgc acatgcaaaa agcaggcgac
+     2341 aagatttatc tcgttggtaa aacagacgat gattttgccg gctcagaatt gcaaaagatg
+     2401 atcactggtg aaattagcgg attgccacat gcgccaaact tgccagagat aaagcaatat
+     2461 ctttacaaat tgcaagcatt aatggctaac ggcttagtca aaagtgccca cgatctaagc
+     2521 gaaggcggct taggcgtttc cttagctgaa acactttttg atacagactt tggtgcaaag
+     2581 gtaaagcttg attttgataa aaatctgctt ttcagtgaga ctccaggtcg cttgatcgtt
+     2641 tcagttgatc ctgcaaatgc ggcaaaattt gaacaagaaa tgggcgattc cgttagtgaa
+     2701 attggtcaag ttactgctga tcagcaattg aacatttcgc tggccaacga tcaagtaaat
+     2761 gaagatgtag ctgaattgca aaagatttgg aaggagtgca tcccttgttt aatgaaatca
+     2821 aaagcctaaa tgaggaatgt ggcgtcttcg gtgttttcgg cgctcctgat gctagtcaat
+     2881 taacatatct gggtttgcat aacctgcagc accgcggaca agaaggggcc ggcatcgtct
+     2941 caagcgatgg tgagcatttg tatcaacacc gcgatcgtgg ccttttatcc gatgcttttg
+     3001 ctgatccgaa tgatttaaaa aaattggtcg gcgacagtgc cattggtcac gttcgctaca
+     3061 gtacaacggg tcgtaattcg attcaaaacg tacaaccatt tctctttcat tttctagacg
+     3121 gtgatgttgc tttagcccac aacggcaatt tagttaatgc cgtgtcttta cgaaacaagc
+     3181 tcgaaaaaca aggcgcgatt tttcaatcct catctgatac cgaaatcttg attcacttga
+     3241 ttcgtaatca tatcaaagat ggctttattt cagctttaaa gcaaagcctg aatgaagttc
+     3301 acggtggttt tgccttcctg cttttgcaaa aagatcgcat gattgcggca cttgatccta
+     3361 atgggattcg tcccttatgt attggtaaat tggacaatgg cgcctacgtt gtttctagcg
+     3421 aaacttgttc acttgacatc atcggtgcca agttcgttcg tgatgtgcag cctggtgaat
+     3481 taatcatcat tgatcgagat ggaatgaaaa ttgatcattt tactaaaaat acgcatttag
+     3541 caatctgctc aatggaatac atctattttg ctcgtcctga ttcaatcata catggtgtga
+     3601 ctgttcataa tgctagaaaa agaatggggc ggctgctagc tcgtgaggct ccagccgatg
+     3661 tcgacatggt agttggcgta ccaaactcat ctttgtcagc tgcctctggt tacgccgaag
+     3721 aattggggtt gccttatgaa atgggtctgg ttaaaaacca atacgttgcc agaaccttca
+     3781 ttcagccaac tcaagccttg cgtgaaaaga gtgttaagtt aaaactgtca gctgttcgtg
+     3841 gtgtcgttgc cggtaaaaag atcgctgtta ttgatgattc gatcgtaaga ggcaccacct
+     3901 ctaagcaaat tgtcaaaatg ttaaaagaag ctggtgctaa agaagtacac cttagaatcg
+     3961 ctagtcctcc atttagattt ccatgttttt acggcattga tatttcaact agagccgaat
+     4021 taatggcagc tcattattca gtagaagaga tgcggaaaat tatcggtgct gatagccttg
+     4081 gctttttaag cgttgatagc ctgatcaaag caatcgatgt gcctgatcga ggagactcat
+     4141 cgggtctgac agttgcttac tttaatggca aatatccaac aaaattggat gactacgaag
+     4201 ctggctattt agcttctctc aatgctcaag aacggcgaca aagaaaggat ttataaaatg
+     4261 aatcgttata aagaagcagg tgttgacgtc actgctggtt acgatttagt caatcgaatt
+     4321 aagccgatgg tagctgcaac caagcgtaaa ggcgtgatgg gcggcatcgg cagttttggc
+     4381 gggatgttcg acttagaaga attaaattat aagcatccag tccttgtttc aggcaccgat
+     4441 ggcgttggta ctaagttgat gatcgcgcaa aagatgcata aaaacgacac agtcggtatc
+     4501 gactgcgtgg ctatgtgtgt taacgatgtc ttagcccaag gcgctgaacc tttatttttc
+     4561 ttagattaca ttgcatgcgg acataacgat cctgaaaaac tagctgatgt ggttaaaggc
+     4621 gtggctgagg gatgcaagca aagtgaatct gccttaattg gtggtgaaac tgccgaaatg
+     4681 cctgacatgt atgaaccgca tgaatacgat ttagccggtt tttcaacagg gatcgctgaa
+     4741 aaagaggaca tattatctag ttctttagcc aaagcaggcg atcatttaat tgccttgcca
+     4801 tcaagtggcg ttcattcaaa cggcttcagt ttaattagaa aaattttgtt caaagatcac
+     4861 gacgtttcat taagcgacaa accagcagaa ttagcgggca aaaccgtagg cgaaacactc
+     4921 cttacgccaa ccagaatcta tgtcaaagca gttttgccac tagtaaaaaa gcatttagtt
+     4981 cacggcattg cccatattac tggtggcggc tttatcgaaa acctacctcg aatttatggc
+     5041 aatgacttgc aagcagtggt caataaaggt tcgtggcctg ttttaccaat ttttgattat
+     5101 ctgaaaaaac taggcgattt agatgaacga gattgctaca acactttcaa tatgggcgtt
+     5161 ggtttagttt tagccgttcc agtagaaacc attgctgcag tcaaagaaca actaaatcgc
+     5221 gagaatgaaa aattctacga aattggtcaa ttagttgcac gccccgaagg ggaagaaaag
+     5281 atcgtaatca aatagaggag aaaaatgaga gttgctattt tagcttctgg gaatggaacc
+     5341 aactttgaag ctttaactaa acagtttcaa gctggcgaga ttcctggaat tgaagcttta
+     5401 atgttttgca atcatccgaa tgctccggta attaagagag ctgaaagatt aggcgtgcca
+     5461 tacgaaactt tttccgttaa agaatgcggt ggcaaagatg cctatgaaaa gcgtctgcta
+     5521 aaag
+//
+

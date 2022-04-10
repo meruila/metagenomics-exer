@@ -1,0 +1,86 @@
+LOCUS       JALCIR010000000           54 rc    DNA     linear   ENV 21-MAR-2022
+DEFINITION  MAG: Lactobacillus amylovorus isolate UW_TS_LAC2_2, whole genome
+            shotgun sequencing project.
+ACCESSION   JALCIR000000000
+VERSION     JALCIR000000000.1
+DBLINK      BioProject: PRJNA768569
+            BioSample: SAMN22412501
+KEYWORDS    WGS; Metagenome Assembled Genome; MAG.
+SOURCE      Lactobacillus amylovorus (bioreactor sludge metagenome)
+  ORGANISM  Lactobacillus amylovorus
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+REFERENCE   1  (bases 1 to 54)
+  AUTHORS   Fortney,N.W., Myers,K.S., Ingle,A.T., Walters,K.A.,
+            Scarborough,M.J., Donohue,T.J. and Noguera,D.R.
+  TITLE     Metagenomes from microbiomes metabolizing thin stillage from an
+            ethanol biorefinery
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 54)
+  AUTHORS   Fortney,N.W., Myers,K.S., Ingle,A.T., Walters,K.A.,
+            Scarborough,M.J., Donohue,T.J. and Noguera,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-FEB-2022) Engineering, University of
+            Wisconsin-Madison, 5120 WEI, 1552 University Ave, Madison, WI
+            53726, USA
+COMMENT     The Lactobacillus amylovorus whole genome shotgun (WGS) project has
+            the project accession JALCIR000000000.  This version of the project
+            (01) has the accession number JALCIR010000000, and consists of
+            sequences JALCIR010000001-JALCIR010000054.
+            The annotation was added by the NCBI Prokaryotic Genome Annotation
+            Pipeline (PGAP). Information about PGAP can be found here:
+            https://www.ncbi.nlm.nih.gov/genome/annotation_prok/
+            
+            ##Genome-Assembly-Data-START##
+            Assembly Date          :: 31-MAY-2021
+            Assembly Method        :: metaspades v. 3.14.1
+            Genome Representation  :: Full
+            Expected Final Version :: Yes
+            Genome Coverage        :: 136x
+            Sequencing Technology  :: Illumina NovaSeq S4
+            ##Genome-Assembly-Data-END##
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider               :: NCBI
+            Annotation Date                   :: 03/18/2022 12:53:58
+            Annotation Pipeline               :: NCBI Prokaryotic Genome
+                                                 Annotation Pipeline (PGAP)
+            Annotation Method                 :: Best-placed reference protein
+                                                 set; GeneMarkS-2+
+            Annotation Software revision      :: 6.0
+            Features Annotated                :: Gene; CDS; rRNA; tRNA; ncRNA;
+                                                 repeat_region
+            Genes (total)                     :: 1,643
+            CDSs (total)                      :: 1,606
+            Genes (coding)                    :: 1,520
+            CDSs (with protein)               :: 1,520
+            Genes (RNA)                       :: 37
+            tRNAs                             :: 34
+            ncRNAs                            :: 3
+            Pseudo Genes (total)              :: 86
+            CDSs (without protein)            :: 86
+            Pseudo Genes (ambiguous residues) :: 0 of 86
+            Pseudo Genes (frameshifted)       :: 46 of 86
+            Pseudo Genes (incomplete)         :: 26 of 86
+            Pseudo Genes (internal stop)      :: 34 of 86
+            Pseudo Genes (multiple problems)  :: 20 of 86
+            CRISPR Arrays                     :: 2
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..54
+                     /organism="Lactobacillus amylovorus"
+                     /mol_type="genomic DNA"
+                     /isolate="UW_TS_LAC2_2"
+                     /isolation_source="anaerobic bioreactor effluent;
+                     Solids-removed thin stillage fed, 1 d SRT, 35C, pH 5.5"
+                     /db_xref="taxon:1604"
+                     /environmental_sample
+                     /country="USA: Madison, WI"
+                     /lat_lon="43.073847 N 89.414083 W"
+                     /altitude="287 m"
+                     /collection_date="2020-05-20"
+                     /metagenome_source="bioreactor sludge metagenome"
+                     /note="metagenomic"
+WGS         JALCIR010000001-JALCIR010000054
+//
+

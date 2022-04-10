@@ -1,0 +1,42 @@
+LOCUS       AF133264                 501 bp    DNA     linear   BCT 29-MAR-1999
+DEFINITION  Lactobacillus amylovorus 16S ribosomal RNA gene, partial sequence.
+ACCESSION   AF133264
+VERSION     AF133264.1
+KEYWORDS    .
+SOURCE      Lactobacillus amylovorus
+  ORGANISM  Lactobacillus amylovorus
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+REFERENCE   1  (bases 1 to 501)
+  AUTHORS   Kullen,M.J., Sanozky-Dawes,R. and Klaenhammer,T.R.
+  TITLE     Use of the DNA sequence of a variable (V1) region of the 16S rRNA
+            gene for rapid and accurate identification of bacteria in the
+            Lactobacillus acidophilus complex
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 501)
+  AUTHORS   Kullen,M.J., Sanozky-Dawes,R. and Klaenhammer,T.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-MAR-1999) Food Science, North Carolina State
+            University, Box 7624, Raleigh, NC 27695, USA
+FEATURES             Location/Qualifiers
+     source          1..501
+                     /organism="Lactobacillus amylovorus"
+                     /mol_type="genomic DNA"
+                     /strain="ATCC 33620"
+                     /type_material="type strain of Lactobacillus amylovorus"
+                     /db_xref="ATCC:33620"
+                     /db_xref="taxon:1604"
+     rRNA            <1..>501
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 gacgaacgct ggcggcgtgc ctaatacatg caagtcgagc gagcggaacc aacagattta
+       61 cttcggtaat gacgttggga aagcgagcgg cggatgggtg agtaacacgt ggggaacctg
+      121 cccctaagtc tgggatacca tttggaaaca ggtgctaata ccggataata aagcagatcg
+      181 catgatcagc ttttgaaagg cggcgtaagc tgtcgctaag ggatggcccc gcggtgcatt
+      241 agctagttgg taaggtaacg gcttaccaag gcgacgatgc atagccgagt tgagagactg
+      301 atcggccaca ttgggactga gacacggccc aaactcctac gggaggcagc agtagggaat
+      361 cttccacaat ggacgcaagt ctgatggagc aacgccgcgt gagtgaagaa ggttttcgga
+      421 tcgtaaagct ctgttgttgg tgaagaagga tagaggtagt aactggcctt tatttgacgg
+      481 taatcaacca gaaagtcacg g
+//
+

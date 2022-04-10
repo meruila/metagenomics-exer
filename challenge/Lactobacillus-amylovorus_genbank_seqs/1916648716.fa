@@ -1,0 +1,60 @@
+LOCUS       MW093039                1433 bp    DNA     linear   BCT 19-OCT-2020
+DEFINITION  Lactobacillus amylovorus strain CACC 735 16S ribosomal RNA gene,
+            partial sequence.
+ACCESSION   MW093039
+VERSION     MW093039.1
+KEYWORDS    .
+SOURCE      Lactobacillus amylovorus
+  ORGANISM  Lactobacillus amylovorus
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+REFERENCE   1  (bases 1 to 1433)
+  AUTHORS   Kim,J.-A., Choi,Y.-J., Kim,D.-H. and Kim,Y.
+  TITLE     Lactobacillus amylovorus CACC 735 16S rRNA gene
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1433)
+  AUTHORS   Kim,J.-A., Choi,Y.-J., Kim,D.-H. and Kim,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-OCT-2020) Technical Support Team, Center for
+            Industrialization of Agricultural and Livestock Microorganisms,
+            241, Cheomdangwahagro, Jeongeup-si 56212, South Korea
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1433
+                     /organism="Lactobacillus amylovorus"
+                     /mol_type="genomic DNA"
+                     /strain="CACC 735"
+                     /isolation_source="feces"
+                     /host="pig"
+                     /db_xref="taxon:1604"
+     rRNA            <1..>1433
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 gcagtcgagc gagcggaacc aacagattta cttcggtaat gacgttggga aagcgagcgg
+       61 cggatgggtg agtaacacgt ggggaacctg cccctaagtc tgggatacca tttggaaaca
+      121 ggtgctaata ccggataata aagcagatcg catgatcagc ttttgaaagg cggcgtaagc
+      181 tgtcgctaag ggatggcccc gcggtgcatt agctagttgg taaggtaacg gcttaccaag
+      241 gcgacgatgc atagccgagt tgagagactg atcggccaca ttgggactga gacacggccc
+      301 aaactcctac gggaggcagc agtagggaat cttccacaat ggacgcaagt ctgatggagc
+      361 aacgccgcgt gagtgaagaa ggttttcgga tcgtaaagct ctgttgttgg tgaagaagga
+      421 tagaggtagt aactggcctt tatttgacgg taatcaacca gaaagtcacg gctaactacg
+      481 tgccagcagc cgcggtaata cgtaggtggc aagcgttgtc cggatttatt gggcgtaaag
+      541 cgagcgcagg cggaaaaata agtctaatgt gaaagccctc ggcttaaccg aggaactgca
+      601 tcggaaactg tttttcttga gtgcagaaga ggagagtgga actccatgtg tagcggtgga
+      661 atgcgtagat atatggaaga acaccagtgg cgaaggcggc tctctggtct gcaactgacg
+      721 ctgaggctcg aaagcatggg tagcgaacag gattagatac cctggtagtc catgccgtaa
+      781 acgatgagtg ctaagtgttg ggaggtttcc gcctctcagt gctgcagcta acgcattaag
+      841 cactccgcct ggggagtacg accgcaaggt tgaaactcaa aggaattgac gggggcccgc
+      901 acaagcggtg gagcatgtgg tttaattcga agcaacgcga agaaccttac caggtcttga
+      961 catctagtgc aatctgtaga gatacggagt tcccttcggg gacgctaaga caggtggtgc
+     1021 atggctgtcg tcagctcgtg tcgtgagatg ttgggttaag tcccgcaacg agcgcaaccc
+     1081 ttgttattag ttgccagcat taagttgggc actctaatga gactgccggt gacaaaccgg
+     1141 aggaaggtgg ggatgacgtc aagtcatcat gccccttatg acctgggcta cacacgtgct
+     1201 acaatgggca gtacaacgag aagcaagcct gcgaaggcaa gcgaatctct gaaagctgtt
+     1261 ctcagttcgg actgcagtct gcaactcgac tgcacgaagc tggaatcgct agtaatcgcg
+     1321 gatcagcacg ccgcggtgaa tacgttcccg ggccttgtac acaccgcccg tcacaccatg
+     1381 ggagtctgca atgcccaaag ccggtggcct aaccttcggg aaggagccgt cta
+//
+

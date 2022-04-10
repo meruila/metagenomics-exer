@@ -1,0 +1,178 @@
+LOCUS       PNRB01000032            2041 bp    DNA     linear   BCT 27-FEB-2019
+DEFINITION  Lactobacillus amylovorus strain PMRA1 PMRA1_0032, whole genome
+            shotgun sequence.
+ACCESSION   PNRB01000032 PNRB01000000
+VERSION     PNRB01000032.1
+DBLINK      BioProject: PRJNA428540
+            BioSample: SAMN08294903
+KEYWORDS    WGS.
+SOURCE      Lactobacillus amylovorus
+  ORGANISM  Lactobacillus amylovorus
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+REFERENCE   1  (bases 1 to 2041)
+  AUTHORS   Nam,Y.-D., Kang,J. and Chung,W.-H.
+  TITLE     draft genome sequencing of Lactobacillus amylovorus PMRA1
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 2041)
+  AUTHORS   Nam,Y.-D., Kang,J. and Chung,W.-H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JAN-2018) Research Group of Gut Microbiome, Korea
+            Food Research Institute, 245, Nongsaengmyeong-ro, Iseo-myeon,
+            Wanju_Gun, Jeollabuk-do 565-851, Korea, Republic of
+COMMENT     Bacteria and source DNA available from Research Group of Gut
+            Microbiome, Korea Food Research Institute, 245, Nongsaengmyeong-ro,
+            Iseo-myeon, Wanju_Gun, Jeollabuk-do, 565-851, Republic of Korea.
+            Annotation was added by the NCBI Prokaryotic Genome Annotation
+            Pipeline (released 2013). Information about the Pipeline can be
+            found here: https://www.ncbi.nlm.nih.gov/genome/annotation_prok/
+            
+            ##Genome-Assembly-Data-START##
+            Assembly Method        :: HGAP v. 4.0
+            Genome Representation  :: Full
+            Expected Final Version :: Yes
+            Genome Coverage        :: 581.0x
+            Sequencing Technology  :: PacBio
+            ##Genome-Assembly-Data-END##
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider               :: NCBI
+            Annotation Date                   :: 01/25/2018 18:54:20
+            Annotation Pipeline               :: NCBI Prokaryotic Genome
+                                                 Annotation Pipeline
+            Annotation Method                 :: Best-placed reference protein
+                                                 set; GeneMarkS+
+            Annotation Software revision      :: 4.3
+            Features Annotated                :: Gene; CDS; rRNA; tRNA; ncRNA;
+                                                 repeat_region
+            Genes (total)                     :: 1,698
+            CDS (total)                       :: 1,659
+            Genes (coding)                    :: 1,528
+            CDS (coding)                      :: 1,528
+            Genes (RNA)                       :: 39
+            rRNAs                             :: 2, 2, 2 (5S, 16S, 23S)
+            complete rRNAs                    :: 2, 2, 2 (5S, 16S, 23S)
+            tRNAs                             :: 30
+            ncRNAs                            :: 3
+            Pseudo Genes (total)              :: 131
+            Pseudo Genes (ambiguous residues) :: 0 of 131
+            Pseudo Genes (frameshifted)       :: 77 of 131
+            Pseudo Genes (incomplete)         :: 55 of 131
+            Pseudo Genes (internal stop)      :: 33 of 131
+            Pseudo Genes (multiple problems)  :: 31 of 131
+            CRISPR Arrays                     :: 1
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..2041
+                     /organism="Lactobacillus amylovorus"
+                     /mol_type="genomic DNA"
+                     /submitter_seqid="PMRA1_0032"
+                     /strain="PMRA1"
+                     /isolation_source="feces"
+                     /host="pig"
+                     /db_xref="taxon:1604"
+                     /country="South Korea: Seoul"
+                     /collection_date="2016-10-04"
+     gene            <1..614
+                     /locus_tag="C1A34_08475"
+     CDS             <1..614
+                     /locus_tag="C1A34_08475"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:YP_194194.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=3
+                     /transl_table=11
+                     /product="aminopeptidase P family protein"
+                     /protein_id="TBH76625.1"
+                     /translation="MIKPGVKERAVGAKLDYLFKVNGGDGPDFDTIIASGVRSAWAHG
+                     VASDKEIEEGDMIVIDFGSFYHGYAADITRTVSLGEVDPEMHKIYDIVHEAQRRGIEA
+                     AVVGNTGHDVDKAARDYITEQGYGEYFGHGIGHGIGLEIHELCQPALPFRTTKLVNNM
+                     VHTVEPGIYLPDKGGVRIEDDILVHDQTPETLSTLPKDELISL"
+     gene            695..1264
+                     /gene="efp"
+                     /locus_tag="C1A34_08480"
+     CDS             695..1264
+                     /gene="efp"
+                     /locus_tag="C1A34_08480"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_013438204.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="elongation factor P"
+                     /protein_id="TBH76626.1"
+                     /translation="MTMISVNEFKNGLTIQYNNDLWRIVEFQHVKPGKGSAFVRSKLK
+                     SLRTGAVQEYTFRSTAKVETADIQTKSMQYLYNDGSSYVFMDTSTYDQLAIPNEQIGD
+                     ESKYLLENMVVSVIMHDGETLGIQLPNTVDLKVAKTEPNIKGDTSSGGGKPATMETGL
+                     VVNVPFFINEGDVLTINTSDGTYVSRANK"
+     gene            1281..1715
+                     /locus_tag="C1A34_08485"
+     CDS             1281..1715
+                     /locus_tag="C1A34_08485"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:YP_194192.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Asp23/Gls24 family envelope stress response
+                     protein"
+                     /protein_id="TBH76627.1"
+                     /translation="MADSSKILLSGEENSEQIKIDPSVLEVILGIAAEKVDGVAGMRG
+                     SLRSGLNWVLGREDHGKGVNVKVDEDNKLVADVYVYLESGVNVPKVGVAIQKQLKAQL
+                     LQMTDLELKSINVHVVGLVFPEDEKDPEETTSELFPEDEVEK"
+     gene            1715..>2041
+                     /locus_tag="C1A34_08490"
+     CDS             1715..>2041
+                     /locus_tag="C1A34_08490"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:YP_194191.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="transcription antitermination factor NusB"
+                     /protein_id="TBH76628.1"
+                     /translation="MNQHESRKVAMQAIYLANQEPDLNAEEVEAKVVTALNLKQLSAY
+                     SKKLIEGVLENRADLQSALSEHLKKGWRLERVSQIVVAIMEVALFEIKNSDEIDPKAA
+                     VNEALNL"
+ORIGIN      
+        1 caatgatcaa accaggcgta aaagaacgtg cagttggtgc taaacttgat tatttattca
+       61 aagttaatgg cggagatggt cctgactttg atacaattat agcttctggt gttcgctcag
+      121 cttgggccca cggtgtggcc agcgataaag agattgaaga aggtgacatg attgtcatcg
+      181 acttcggtag tttttaccat ggctatgctg ctgatattac gcgtaccgtt tccttaggtg
+      241 aagtagatcc tgaaatgcac aaaatttacg atattgtgca tgaagcacaa cgtcgcggaa
+      301 tagaagctgc cgttgtcggt aataccggtc atgacgttga taaggcagca cgtgattaca
+      361 tcaccgaaca aggttatggc gaatactttg gccacggtat tggtcacgga attggtctag
+      421 aaattcatga actttgtcag ccagctttgc catttagaac cactaaatta gttaacaaca
+      481 tggtccacac tgttgaacca ggtatttact tgcctgacaa gggtggggtt agaatcgaag
+      541 atgatatttt ggttcatgat caaactccag aaacgctttc aactttgcct aaagatgaac
+      601 taatttcttt atagttgtaa ttttaatagg tcgaagttat agccaaaacc gtttaagatt
+      661 ggtaagatat tattgtagaa atgagggact taatatgaca atgatttcag taaatgaatt
+      721 caagaatggc cttactattc aatataacaa tgatttatgg cgcattgttg aattccaaca
+      781 tgtaaaacca ggtaaaggta gtgcctttgt tcgttcaaag cttaagagct tgagaactgg
+      841 tgctgtacaa gaatatactt tccgttcaac tgctaaggtt gaaactgcag atattcaaac
+      901 taagtcaatg caatacttgt acaacgatgg ttcaagctac gtattcatgg atacttcaac
+      961 ttatgaccaa ttggcaattc caaatgaaca aattggcgat gaatccaagt acttgcttga
+     1021 aaacatggtt gttagcgtaa ttatgcacga tggtgaaact ttaggtattc aattacctaa
+     1081 cactgttgat ttgaaggttg ctaagactga acctaacatc aagggtgata cttcatcagg
+     1141 tggtggtaag ccagctacta tggaaactgg tttggtagtt aacgtaccat tcttcattaa
+     1201 cgaaggcgat gttttaacta ttaacacttc tgacggtact tacgtatcac gtgctaataa
+     1261 gtagtttttg aggtagcgaa atggcagata gttcaaaaat tctcttaagt ggcgaagaaa
+     1321 acagcgaaca aattaaaatt gatccaagtg ttttagaagt tattttgggt attgctgctg
+     1381 aaaaagttga tggcgttgca ggtatgcgcg gaagtctaag atcaggtctt aactgggttc
+     1441 ttggccgtga agatcatggt aaaggcgtta atgttaaggt tgacgaagac aacaagttag
+     1501 ttgctgatgt ttacgtatat cttgaaagtg gcgtaaatgt tcctaaagtt ggtgtggcaa
+     1561 ttcaaaagca acttaaggca caattattgc aaatgactga ccttgaacta aagtcaatta
+     1621 atgtacacgt tgtaggttta gttttcccag aagatgaaaa agatcctgag gaaactacct
+     1681 cagagctgtt tccggaggat gaagtagaga aataatgaac caacacgaaa gtcgcaaagt
+     1741 tgctatgcaa gccatttatt tggctaatca agagccagat ttaaatgctg aagaagttga
+     1801 agctaaagtc gttacagcgc ttaatttaaa acagctttct gcctattcga agaagttgat
+     1861 cgaaggtgtg cttgaaaatc gtgcagattt acaatctgct ttgtcagagc acctaaaaaa
+     1921 aggctggcgt ctagagcgtg taagtcaaat tgtcgttgct attatggaag ttgctctttt
+     1981 tgaaatcaaa aatagcgatg aaattgatcc taaagcagca gtaaatgaag ctttgaattt
+     2041 a
+//
+

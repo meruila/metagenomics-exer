@@ -1,0 +1,50 @@
+LOCUS       MT525371                 865 bp    DNA     linear   BCT 06-JAN-2022
+DEFINITION  Lactobacillus amylovorus strain S1 16S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   MT525371
+VERSION     MT525371.1
+KEYWORDS    .
+SOURCE      Lactobacillus amylovorus
+  ORGANISM  Lactobacillus amylovorus
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+REFERENCE   1  (bases 1 to 865)
+  AUTHORS   Jing,Y.
+  TITLE     Metabolic insights into amino acid utilization by Lactobacillus
+            amylovorus from small intestine of piglets
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 865)
+  AUTHORS   Jing,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-MAY-2020) College of Animal Science and Technology,
+            Nanjing Agriculture university, Weigang Street, Nanjing, Jiangsu
+            210095, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..865
+                     /organism="Lactobacillus amylovorus"
+                     /mol_type="genomic DNA"
+                     /strain="S1"
+                     /db_xref="taxon:1604"
+     rRNA            <1..>865
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 ggcgtgtcta tacatgcaag tcgagcgagc ggaaccaaca gatttacttc ggtaatgacg
+       61 ttgggaaagc gagcggcgga tgggtgagta acacgtgggg aacctgcccc taagtctggg
+      121 ataccatttg gaaacaggtg ctaataccgg ataataaagc agatcgcatg atcagctttt
+      181 gaaaggcggc gtaagctgtc gctaagggat ggccccgcgg tgcattatct agttggtaag
+      241 gtaacggctt accagggcga cgatgcatag ccgagttgag agactgatcg gccacattgg
+      301 gactgagaca cggcccaaac tcctacggga ggcagcagta gggaatcttc cacaatggac
+      361 gcaagtctga tggagcaacg ccgcgtgagt gaagaaggtt ttcggatcgt aaagctctgt
+      421 tgttggtgaa gaaggataga ggtagtaact ggcctttatt tgacggtaat caaccagaaa
+      481 gtcacggcta actacgtgcc agcagccgcg gtaatacgta ggtggcaagc gttgtccgga
+      541 tttattgggc gtaaagcgag cgcaggcgga aaaataagtc taatgtgaaa gccctcggct
+      601 taaccgagga actgcatcgg aaactgtttt tcttgagtgc agaagaggag agtggaactc
+      661 catgtgtagc ggtggaatgc gtatatatat ggaagaacac cagtggcgaa ggcggctctc
+      721 tggtctgcaa ctgacgctga ggctcgaaag catgggtagc gaacaggatt agataccctg
+      781 gtagtccatg ccgtaaacga tgagtgctaa gtgtttggga ggtttccgcc tctcagtgct
+      841 gcagctaacg caataagcac tccgc
+//
+

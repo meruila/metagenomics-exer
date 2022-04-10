@@ -1,0 +1,57 @@
+LOCUS       EU000483                 721 bp    DNA     linear   BCT 23-JUL-2016
+DEFINITION  Lactobacillus amylovorus strain DSM 20532 RNA polymerase alpha
+            subunit (rpoA) gene, partial cds.
+ACCESSION   EU000483
+VERSION     EU000483.1
+KEYWORDS    .
+SOURCE      Lactobacillus amylovorus
+  ORGANISM  Lactobacillus amylovorus
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+REFERENCE   1  (bases 1 to 721)
+  AUTHORS   Jakava-Viljanen,M., Murros,A., Palva,A. and Bjorkroth,K.J.
+  TITLE     Lactobacillus sobrius Konstantinov et al. 2006 is a later synonym
+            of Lactobacillus amylovorus Nakamura 1981
+  JOURNAL   Int. J. Syst. Evol. Microbiol. 58 (PT 4), 910-913 (2008)
+   PUBMED   18398193
+REFERENCE   2  (bases 1 to 721)
+  AUTHORS   Jakava-Viljanen,M., Murros,A., Palva,A. and Bjorkroth,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-JUN-2007) Basic Veterinary Sciences, Microbiology and
+            Epidemiology, Agnes Sjobergin katu 2, University of Helsinki
+            FIN-00014, Finland
+FEATURES             Location/Qualifiers
+     source          1..721
+                     /organism="Lactobacillus amylovorus"
+                     /mol_type="genomic DNA"
+                     /strain="DSM 20532"
+                     /db_xref="taxon:1604"
+     gene            <1..>721
+                     /gene="rpoA"
+     CDS             <1..>721
+                     /gene="rpoA"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="RNA polymerase alpha subunit"
+                     /protein_id="ABS50511.1"
+                     /translation="FEKPNITVVEQEDSYGKFVVEPLERGFGTTLGNSLRRVLLTSIP
+                     GTGLVYVQIDGVLHEFSTVPGVREDVTKIILNLKKLELKSLSDEQKVIELDVEGPATV
+                     TADDLKVDADVQVLNPDQYICTIAEGGHLHMELAVKNGRGYVTASDNKSDDMPIGVIP
+                     VDSLFSPIKKVNYQVESTRVGKRDDFDKLTFEIWTDGSIKPNDALSFAAKILVEHFKV
+                     FESADANTQFSEVMVEKENDKK"
+ORIGIN      
+        1 tttgaaaaac caaatattac cgttgttgaa caagaagatt cttacggtaa gtttgttgtt
+       61 gaaccacttg agcgaggctt tggtactact ttaggtaatt ctttaagaag agttttactt
+      121 acttctattc cgggtactgg acttgtttat gtgcaaattg atggcgtttt acacgagttc
+      181 tcaacagttc ctggcgtcag agaagatgta accaaaatta ttctgaactt gaagaaactt
+      241 gaattaaagt ctctttcaga tgaacaaaag gttattgaat tagacgttga aggtcctgcc
+      301 acagtaactg ctgatgatct taaagttgat gcagacgttc aagtcttgaa tccagatcaa
+      361 tatatttgta ccattgctga aggtgggcat ttacatatgg aactcgccgt aaagaatggt
+      421 agaggatatg taactgcaag tgacaataag agtgatgaca tgccaatcgg agtaattcct
+      481 gttgattcat tattctcacc aattaaaaag gttaactacc aagttgagtc aactcgtgtt
+      541 ggtaagagag acgatttcga caagctcact tttgagattt ggactgacgg ttcaatcaag
+      601 cctaatgacg cccttagttt tgctgctaag atcttagttg aacacttcaa ggtatttgaa
+      661 tcagctgatg caaatactca attcagcgaa gtaatggtgg aaaaggaaaa cgataagaag
+      721 g
+//
+
